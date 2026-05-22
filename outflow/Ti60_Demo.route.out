@@ -1,0 +1,882 @@
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:14] No valid object(s) found for 'dsi_refclk_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:14] No valid pin(s) found for clock
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:14] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:24] No valid object(s) found for 'clk_pixel_2x'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:24] No valid pin(s) found for clock
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:24] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:29] No valid object(s) found for 'clk_54m'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:29] No valid pin(s) found for clock
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:29] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:35] set_clock_groups: Defaulting to -exclusive since none of the required option was specified
+WARNING  : No ports matched 'cmos_data[0]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:78] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:78] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[0]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:79] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:79] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[1]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:80] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:80] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[1]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:81] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:81] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[2]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:82] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:82] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[2]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:83] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:83] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[3]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:84] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:84] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[3]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:85] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:85] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[4]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:86] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:86] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[4]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:87] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:87] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[5]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:88] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:88] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[5]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:89] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:89] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[6]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:90] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:90] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[6]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:91] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:91] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[7]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:92] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:92] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[7]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:93] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:93] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_href'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:94] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:94] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_href'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:95] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:95] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_vsync'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:96] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:96] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_vsync'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:97] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:97] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[0]'
+WARNING  : No ports matched 'i_dqs_n_hi[0]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:341] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:341] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_hi[0]'
+WARNING  : No ports matched 'i_dqs_n_lo[0]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:342] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:342] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_hi[1]'
+WARNING  : No ports matched 'i_dqs_n_lo[1]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:347] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:347] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[1]'
+WARNING  : No ports matched 'i_dqs_n_hi[1]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:348] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:348] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:576] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:576] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:577] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:577] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:578] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:578] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:579] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:579] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:580] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:580] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:581] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:581] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:582] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:582] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:583] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:583] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:584] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:584] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:585] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:585] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:586] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:586] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:587] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:587] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:588] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:588] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:589] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:589] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_hs_i[*]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:590] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:590] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_hs_i[*]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:591] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:591] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:592] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:592] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:593] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:593] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:594] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:594] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:595] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:595] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:596] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:596] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:597] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:597] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_hs_i[*]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:598] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:598] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_hs_i[*]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:599] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:599] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:600] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:600] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:601] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:601] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:602] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:602] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:603] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:603] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:604] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:604] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:605] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:605] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_hs_i[*]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:606] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:606] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_hs_i[*]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:607] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:607] Unable to run 'set_input_delay' constraint due to warnings found
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Router Setup
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : [Setup Parallel Routing Scheduler]
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Route Circuit with 32 threads
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Beneficial skew enabled! Optimizing clock skews ... 
+INFO     : Non-legalized beneficial skew improved geomean CPD by 3.31% (from 4318ps to 4175ps)
+INFO     : CSS improved CPD of clock tdqss_clk by 0.00% (from 2118ps to 2118ps)
+INFO     : CSS improved CPD of clock core_clk by 0.00% (from 4478ps to 4478ps)
+INFO     : CSS improved CPD of clock tac_clk by 12.68% (from 2650ps to 2314ps)
+INFO     : CSS improved CPD of clock twd_clk by 2.20% (from 2276ps to 2226ps)
+INFO     : CSS improved CPD of clock clk_sys by 1.06% (from 38880ps to 38467ps)
+INFO     : CSS improved CPD of clock clk_pixel by 0.00% (from 4685ps to 4685ps)
+INFO     : CSS improved CPD of clock csi_rxc_i by 0.00% (from 2689ps to 2689ps)
+INFO     : Discretized beneficial skew improved geomean CPD by 2.39% (from 4318ps to 4215ps in 6 iterations and 0.9 sec)
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Overridding delay budgets for 551 synchronizer-related pins
+
+INFO     : Iter  1: overlap=41887   heapops=4485350    (0%) cpd=38467 frr=1.00  msec=2923
+INFO     : [Setup Delay Budgets | 575.1 ms]
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Hold Fixing
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Total min wire delay:   7660194
+INFO     : Hold fix wire delay:         65
+INFO     : Hold fix delay ratio:     0.00%
+INFO     : Pins requiring hold fix:  0.00%
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Iter  2: overlap=20005   heapops=3520719    (29%) cpd=38805 frr=1.01  msec=883
+INFO     : Iter  3: overlap=13661   heapops=2835531    (48%) cpd=38825 frr=1.01  msec=762
+INFO     : Iter  4: overlap=9925    heapops=2350091    (56%) cpd=38803 frr=1.01  msec=731
+INFO     : Iter  5: overlap=6796    heapops=1937088    (61%) cpd=38799 frr=1.01  msec=604
+INFO     : Iter  6: overlap=4684    heapops=1386543    (67%) cpd=38823 frr=1.01  msec=603
+INFO     : Iter  7: overlap=3531    heapops=999293     (72%) cpd=38830 frr=1.01  msec=424
+INFO     : Iter  8: overlap=2808    heapops=705820     (77%) cpd=38839 frr=1.01  msec=439
+INFO     : Iter  9: overlap=2402    heapops=549880     (78%) cpd=38843 frr=1.01  msec=299
+INFO     : Iter 10: overlap=2126    heapops=500848     (79%) cpd=38867 frr=1.01  msec=287
+INFO     : Iter 11: overlap=1934    heapops=462541     (79%) cpd=38877 frr=1.01  msec=277
+INFO     : Iter 12: overlap=1721    heapops=461344     (79%) cpd=38904 frr=1.01  msec=274
+INFO     : Iter 13: overlap=1581    heapops=448434     (79%) cpd=38915 frr=1.01  msec=265
+INFO     : Iter 14: overlap=1442    heapops=479938     (79%) cpd=38965 frr=1.01  msec=299
+INFO     : Iter 15: overlap=1252    heapops=466351     (79%) cpd=39007 frr=1.01  msec=279
+INFO     : Iter 16: overlap=1072    heapops=485766     (79%) cpd=38955 frr=1.01  msec=282
+INFO     : Iter 17: overlap=958     heapops=475173     (79%) cpd=39047 frr=1.02  msec=279
+INFO     : Iter 18: overlap=868     heapops=456555     (79%) cpd=39119 frr=1.02  msec=269
+INFO     : Iter 19: overlap=745     heapops=459240     (79%) cpd=39240 frr=1.02  msec=269
+INFO     : Iter 20: overlap=618     heapops=456877     (79%) cpd=39385 frr=1.02  msec=273
+INFO     : Iter 21: overlap=558     heapops=453674     (79%) cpd=39514 frr=1.03  msec=279
+INFO     : Iter 22: overlap=489     heapops=450693     (79%) cpd=39623 frr=1.03  msec=283
+INFO     : Iter 23: overlap=428     heapops=460581     (79%) cpd=39658 frr=1.03  msec=271
+INFO     : Iter 24: overlap=355     heapops=458727     (79%) cpd=39838 frr=1.04  msec=269
+INFO     : Iter 25: overlap=285     heapops=443079     (79%) cpd=40101 frr=1.04  msec=316
+INFO     : Iter 26: overlap=219     heapops=629234     (79%) cpd=40340 frr=1.05  msec=425
+INFO     : [Rebuild Parallel Routing Scheduler]
+INFO     : Iter 27: overlap=173     heapops=600969     (79%) cpd=40434 frr=1.05  msec=633
+INFO     : Iter 28: overlap=144     heapops=660083     (79%) cpd=40521 frr=1.05  msec=624
+INFO     : Iter 29: overlap=124     heapops=427926     (79%) cpd=40681 frr=1.06  msec=386
+INFO     : Iter 30: overlap=84      heapops=497848     (79%) cpd=41154 frr=1.07  msec=327
+INFO     : Iter 31: overlap=70      heapops=494434     (79%) cpd=41041 frr=1.07  msec=317
+INFO     : Iter 32: overlap=42      heapops=420054     (79%) cpd=41328 frr=1.07  msec=372
+INFO     : Iter 33: overlap=30      heapops=415584     (79%) cpd=41555 frr=1.08  msec=281
+INFO     : Iter 34: overlap=22      heapops=413513     (79%) cpd=41652 frr=1.08  msec=270
+INFO     : Iter 35: overlap=18      heapops=411665     (79%) cpd=41716 frr=1.08  msec=272
+INFO     : Iter 36: overlap=9       heapops=410485     (79%) cpd=41806 frr=1.09  msec=266
+INFO     : Iter 37: overlap=7       heapops=409581     (79%) cpd=41767 frr=1.09  msec=275
+INFO     : Iter 38: overlap=8       heapops=409191     (79%) cpd=41823 frr=1.09  msec=277
+INFO     : Iter 39: overlap=6       heapops=409036     (79%) cpd=41705 frr=1.08  msec=277
+INFO     : Iter 40: overlap=3       heapops=412608     (79%) cpd=41820 frr=1.09  msec=269
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Beneficial skew enabled! Optimizing clock skews ... 
+INFO     : Non-legalized beneficial skew improved geomean CPD by 0.00% (from 4497ps to 4497ps)
+INFO     : CSS improved CPD of clock tdqss_clk by 0.00% (from 2118ps to 2118ps)
+INFO     : CSS improved CPD of clock core_clk by 0.00% (from 4519ps to 4519ps)
+INFO     : CSS improved CPD of clock tac_clk by -0.25% (from 2374ps to 2380ps)
+INFO     : CSS improved CPD of clock twd_clk by 0.00% (from 2219ps to 2219ps)
+INFO     : CSS improved CPD of clock clk_sys by 0.00% (from 41953ps to 41953ps)
+INFO     : CSS improved CPD of clock clk_pixel by 0.00% (from 5619ps to 5619ps)
+INFO     : CSS improved CPD of clock csi_rxc_i by 0.00% (from 3131ps to 3131ps)
+INFO     : Discretized beneficial skew improved geomean CPD by -0.02% (from 4497ps to 4498ps in 1 iterations and 1.0 sec)
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Iter 41: overlap=0       heapops=408176     (79%) cpd=41953 frr=1.09  msec=1324
+INFO     : Iter 42: overlap=6       heapops=410049     (79%) cpd=41765 frr=1.09  msec=351
+INFO     : Iter 43: overlap=1       heapops=409291     (79%) cpd=41944 frr=1.09  msec=283
+INFO     : Iter 44: overlap=0       heapops=408135     (79%) cpd=41832 frr=1.09  msec=272
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Routing Result
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Routing Succeeded in 20.83 seconds taking 44 iterations! 
+INFO     : 
+INFO     : First iteration critical path delay = 38.467 ns 
+INFO     : Last iteration critical path delay  = 41.832 ns (ratio = 1.09)
+INFO     : Max Routing Heap Size = 65,322
+INFO     : Routing trace written to file 'D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow/Ti60_Demo.troutingtraces' 
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Routing took 30.6468 seconds.
+INFO     : 	Routing took 108.219 seconds (approximately) in total CPU time.
+INFO     : Routing virtual memory usage: begin = 261.564 MB, end = 399.404 MB, delta = 137.84 MB
+INFO     : 	Routing peak virtual memory usage = 551.38 MB
+INFO     : Routing resident set memory usage: begin = 273.972 MB, end = 408.592 MB, delta = 134.62 MB
+INFO     : 	Routing peak resident set memory usage = 520.284 MB
+           ***** Beginning stage final timing analysis ... *****
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:14] No valid object(s) found for 'dsi_refclk_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:14] No valid pin(s) found for clock
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:14] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:24] No valid object(s) found for 'clk_pixel_2x'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:24] No valid pin(s) found for clock
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:24] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:29] No valid object(s) found for 'clk_54m'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:29] No valid pin(s) found for clock
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:29] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:35] set_clock_groups: Defaulting to -exclusive since none of the required option was specified
+WARNING  : No ports matched 'cmos_data[0]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:78] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:78] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[0]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:79] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:79] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[1]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:80] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:80] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[1]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:81] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:81] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[2]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:82] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:82] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[2]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:83] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:83] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[3]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:84] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:84] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[3]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:85] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:85] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[4]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:86] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:86] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[4]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:87] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:87] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[5]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:88] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:88] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[5]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:89] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:89] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[6]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:90] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:90] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[6]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:91] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:91] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[7]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:92] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:92] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[7]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:93] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:93] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_href'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:94] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:94] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_href'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:95] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:95] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_vsync'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:96] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:96] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_vsync'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:97] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:97] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[0]'
+WARNING  : No ports matched 'i_dqs_n_hi[0]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:341] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:341] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[0]'
+WARNING  : No ports matched 'i_dqs_n_hi[0]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:342] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:342] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_hi[1]'
+WARNING  : No ports matched 'i_dqs_n_lo[1]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:347] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:347] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_hi[1]'
+WARNING  : No ports matched 'i_dqs_n_lo[1]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:348] set_input_delay: No valid input port(s) found
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:348] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:576] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:576] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:577] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:577] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:578] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:578] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:579] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:579] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:580] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:580] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : No ports matched 'csi_rxd0_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:581] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:581] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:582] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:582] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~278'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:583] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:583] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:584] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:584] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:585] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:585] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:586] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:586] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:587] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:587] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:588] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:588] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:589] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:589] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_hs_i[*]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:590] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:590] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~294'
+WARNING  : No ports matched 'csi_rxd1_hs_i[*]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:591] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:591] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:592] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:592] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:593] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:593] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:594] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:594] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:595] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:595] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:596] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:596] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:597] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:597] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_hs_i[*]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:598] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:598] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~245'
+WARNING  : No ports matched 'csi_rxd2_hs_i[*]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:599] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:599] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:600] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:600] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_rd_o'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:601] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:601] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:602] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:602] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:603] set_output_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:603] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:604] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:604] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_fifo_empty_i'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:605] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:605] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_hs_i[*]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:606] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:606] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxc_i~CLKOUT~218~255'
+WARNING  : No ports matched 'csi_rxd3_hs_i[*]'
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:607] set_input_delay: No valid output port found for -reference_pin
+WARNING  : [SDC D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60_Demo.pt.sdc:607] Unable to run 'set_input_delay' constraint due to warnings found
+Maximum possible analyzed clocks frequency
+ Clock Name  Period (ns)  Frequency (MHz)     Edge
+ tdqss_clk       2.228       448.833         (R-R)
+ core_clk        4.629       216.029         (R-R)
+ tac_clk         2.490       401.606         (R-R)
+ twd_clk         2.329       429.369         (R-R)
+ clk_sys        41.942        23.842         (R-R)
+ clk_pixel       5.729       174.551         (R-R)
+ csi_rxc_i       3.241       308.547         (R-R)
+
+Geomean max period: 4.644
+
+Setup (Max) Clock Relationship
+  Launch Clock    Capture Clock   Constraint (ns)     Slack (ns)          Edge
+   tdqss_clk        tdqss_clk           2.604            0.376           (R-R)
+   tdqss_clk        core_clk            2.604            2.123           (R-R)
+   core_clk         tdqss_clk           2.604            0.871           (R-R)
+   core_clk         core_clk            5.208            0.579           (R-R)
+   core_clk         tac_clk             2.604            2.248           (R-R)
+   core_clk         twd_clk             0.541            0.302           (R-R)
+   tac_clk          core_clk            2.604            1.853           (R-R)
+   tac_clk          tac_clk             2.604            0.114           (R-R)
+   twd_clk          twd_clk             2.604            0.275           (R-R)
+   clk_sys          clk_sys            10.417          -31.525           (R-R)
+   clk_pixel        clk_pixel          13.441            7.712           (R-R)
+   csi_rxc_i        csi_rxc_i           6.000            2.759           (R-R)
+
+Hold (Min) Clock Relationship
+  Launch Clock    Capture Clock   Constraint (ns)     Slack (ns)          Edge
+   tdqss_clk        tdqss_clk           0.000           0.079            (R-R)
+   tdqss_clk        core_clk            0.000           0.150            (R-R)
+   core_clk         tdqss_clk           0.000           0.076            (R-R)
+   core_clk         core_clk            0.000           0.033            (R-R)
+   core_clk         tac_clk             0.000           0.067            (R-R)
+   core_clk         twd_clk            -1.883           2.016            (R-R)
+   tac_clk          core_clk            0.000           0.159            (R-R)
+   tac_clk          tac_clk             0.000           0.047            (R-R)
+   twd_clk          twd_clk             0.000           0.056            (R-R)
+   clk_sys          clk_sys             0.000           0.030            (R-R)
+   clk_pixel        clk_pixel           0.000           0.099            (R-R)
+   csi_rxc_i        csi_rxc_i           0.000           0.030            (R-R)
+
+WARNING  : Clock domain between clk_sys (rising) and clk_sys (rising) may not meet (slack: -31.525 ns) the setup (max) timing requirement
+INFO     : Write Timing Report to "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow\Ti60_Demo.timing.rpt" ...
+INFO     : final timing analysis took 22.7426 seconds.
+INFO     : 	final timing analysis took 24.1562 seconds (approximately) in total CPU time.
+INFO     : final timing analysis virtual memory usage: begin = 457.14 MB, end = 551.084 MB, delta = 93.944 MB
+INFO     : 	final timing analysis peak virtual memory usage = 551.38 MB
+INFO     : final timing analysis resident set memory usage: begin = 464.888 MB, end = 551.588 MB, delta = 86.7 MB
+INFO     : 	final timing analysis peak resident set memory usage = 551.588 MB
+           ***** Ending stage final timing analysis *****
+           
+           ***** Beginning stage netlist pre-processing ... *****
+INFO     : Successfully Read in Verific binary Netlist dump file "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow/Ti60_Demo.vdb".
+INFO     : ***** Beginning VDB Netlist Checker ... *****
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(11): Input/inout port clk_24m is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(12): Input/inout port clk_25m is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(21): Input/inout port clk_pixel_2x is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(22): Input/inout port clk_pixel_10x is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(30): Input/inout port dsi_refclk_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(31): Input/inout port dsi_byteclk_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(32): Input/inout port dsi_serclk_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(33): Input/inout port dsi_txcclk_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(60): Input/inout port clk_lvds_1x is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(61): Input/inout port clk_lvds_7x is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(62): Input/inout port clk_27m is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(63): Input/inout port clk_54m is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(97): Input/inout port i_dqs_n_hi[1] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(98): Input/inout port i_dqs_n_lo[1] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(121): Input/inout port csi_ctl0_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(125): Input/inout port csi_ctl1_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(129): Input/inout port csi_scl_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(156): Input/inout port csi_rxd1_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(157): Input/inout port csi_rxd1_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(158): Input/inout port csi_rxd1_hs_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(165): Input/inout port csi_rxd2_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(166): Input/inout port csi_rxd2_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(167): Input/inout port csi_rxd2_hs_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(174): Input/inout port csi_rxd3_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(175): Input/inout port csi_rxd3_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(176): Input/inout port csi_rxd3_hs_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(235): Input/inout port dsi_txd0_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(236): Input/inout port dsi_txd0_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(237): Input/inout port dsi_txd1_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(238): Input/inout port dsi_txd1_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(239): Input/inout port dsi_txd2_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(240): Input/inout port dsi_txd2_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(241): Input/inout port dsi_txd3_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(242): Input/inout port dsi_txd3_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(261): Input/inout port cmos_sdat_IN is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(266): Input/inout port cmos_pclk is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(267): Input/inout port cmos_vsync is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(268): Input/inout port cmos_href is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(269): Input/inout port cmos_data[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(270): Input/inout port cmos_ctl1 is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(320): Input/inout port lcd_tp_sda_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(324): Input/inout port lcd_tp_scl_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(328): Input/inout port lcd_tp_int_i is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(348): Input/inout port lcd_b7_0_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(349): Input/inout port lcd_g7_0_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : D:\degree2\FPGA\Nocascope_3\Nocascope_2\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v(350): Input/inout port lcd_r7_0_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : CE port of EFX_DSP24 instance u_rgb2cbcr/mult_15 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP24 instance u_rgb2cbcr/mult_16 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP24 instance u_rgb2cbcr/mult_17 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP24 instance u_rgb2cbcr/mult_18 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP24 instance u_rgb2cbcr/mult_19 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP24 instance u_rgb2cbcr/mult_20 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP24 instance u_rgb2cbcr/mult_21 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP24 instance u_yuv2rgb/mult_12 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP24 instance u_yuv2rgb/mult_13 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP24 instance u_yuv2rgb/mult_16 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP48 instance u_yuv2rgb/mult_14 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP48 instance u_yuv2rgb/mult_15 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP24 instance u_AWB/u_isp_wb/mult_12 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP24 instance u_AWB/u_isp_wb/mult_14 is permanently disabled [VDB-8002]
+WARNING  : Found 111 warnings in the post-synthesis netlist.
+INFO     : VDB Netlist Checker took 0.0431182 seconds.
+INFO     : 	VDB Netlist Checker took 0.0625 seconds (approximately) in total CPU time.
+INFO     : VDB Netlist Checker virtual memory usage: begin = 456.292 MB, end = 456.332 MB, delta = 0.04 MB
+INFO     : 	VDB Netlist Checker peak virtual memory usage = 551.38 MB
+INFO     : VDB Netlist Checker resident set memory usage: begin = 466.16 MB, end = 466.2 MB, delta = 0.04 MB
+INFO     : 	VDB Netlist Checker peak resident set memory usage = 551.612 MB
+INFO     : ***** Ending VDB Netlist Checker ... *****
+INFO     : Reading core interface constraints file "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow/Ti60_Demo.interface.csv"
+INFO     : Successfully read core interface constraints file "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow/Ti60_Demo.interface.csv"
+INFO     : Net clk_lvds_1x promoted to global due to interface constraints.
+INFO     : Net cmos_pclk promoted to global due to interface constraints.
+INFO     : Net clk_pixel_10x promoted to global due to interface constraints.
+INFO     : Net clk_lvds_7x promoted to global due to interface constraints.
+INFO     : Net clk_27m promoted to global due to interface constraints.
+INFO     : Net dsi_serclk_i promoted to global due to interface constraints.
+INFO     : Net dsi_byteclk_i promoted to global due to interface constraints.
+INFO     : Net dsi_txcclk_i promoted to global due to interface constraints.
+INFO     : Found 0 constant generator nets.
+INFO     : Pass 0: Swept away 0 nets with no fanout.
+INFO     : logical_block #0(clk_24m) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #1(clk_25m) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #5(clk_pixel_2x) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #9(dsi_refclk_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #33(clk_54m) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #149(i_dqs_n_hi[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #150(i_dqs_n_hi[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #151(i_dqs_n_lo[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #152(i_dqs_n_lo[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #171(csi_ctl0_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #174(csi_ctl1_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #177(csi_scl_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #202(csi_rxd1_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #203(csi_rxd1_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #204(csi_rxd1_hs_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #205(csi_rxd1_hs_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #206(csi_rxd1_hs_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #207(csi_rxd1_hs_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #208(csi_rxd1_hs_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #209(csi_rxd1_hs_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #210(csi_rxd1_hs_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #211(csi_rxd1_hs_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #215(csi_rxd2_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #216(csi_rxd2_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #217(csi_rxd2_hs_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #218(csi_rxd2_hs_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #219(csi_rxd2_hs_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #220(csi_rxd2_hs_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #221(csi_rxd2_hs_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #222(csi_rxd2_hs_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #223(csi_rxd2_hs_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #224(csi_rxd2_hs_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #228(csi_rxd3_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #229(csi_rxd3_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #230(csi_rxd3_hs_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #231(csi_rxd3_hs_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #232(csi_rxd3_hs_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #233(csi_rxd3_hs_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #234(csi_rxd3_hs_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #235(csi_rxd3_hs_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #236(csi_rxd3_hs_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #237(csi_rxd3_hs_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #310(dsi_txd0_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #311(dsi_txd0_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #312(dsi_txd1_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #313(dsi_txd1_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #314(dsi_txd2_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #315(dsi_txd2_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #316(dsi_txd3_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #317(dsi_txd3_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #327(cmos_sdat_IN) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #331(cmos_vsync) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #332(cmos_href) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #333(cmos_data[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #334(cmos_data[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #335(cmos_data[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #336(cmos_data[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #337(cmos_data[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #338(cmos_data[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #339(cmos_data[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #340(cmos_data[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #341(cmos_ctl1) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #439(lcd_tp_sda_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #442(lcd_tp_scl_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #445(lcd_tp_int_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #500(lcd_b7_0_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #501(lcd_b7_0_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #502(lcd_b7_0_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #503(lcd_b7_0_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #504(lcd_b7_0_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #505(lcd_b7_0_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #506(lcd_b7_0_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #507(lcd_b7_0_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #508(lcd_g7_0_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #509(lcd_g7_0_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #510(lcd_g7_0_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #511(lcd_g7_0_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #512(lcd_g7_0_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #513(lcd_g7_0_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #514(lcd_g7_0_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #515(lcd_g7_0_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #516(lcd_r7_0_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #517(lcd_r7_0_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #518(lcd_r7_0_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #519(lcd_r7_0_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #520(lcd_r7_0_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #521(lcd_r7_0_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #522(lcd_r7_0_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #523(lcd_r7_0_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : Pass 0: Swept away 89 blocks with no fanout.
+INFO     : Pass 1: Swept away 0 nets with no fanout.
+INFO     : Pass 1: Swept away 0 blocks with no fanout.
+INFO     : Swept away 0 nets and 89 blocks in total.
+INFO     : Removed 0 LUT buffers
+INFO     : Sweept away 89 nodes
+INFO     : Successfully created VPR logical netlist from Verific binary DataBase file "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow/Ti60_Demo.vdb".
+INFO     : Netlist pre-processing took 0.466396 seconds.
+INFO     : 	Netlist pre-processing took 0.46875 seconds (approximately) in total CPU time.
+INFO     : Netlist pre-processing virtual memory usage: begin = 423.972 MB, end = 487.964 MB, delta = 63.992 MB
+INFO     : 	Netlist pre-processing peak virtual memory usage = 551.38 MB
+INFO     : Netlist pre-processing resident set memory usage: begin = 433.916 MB, end = 496.82 MB, delta = 62.904 MB
+INFO     : 	Netlist pre-processing peak resident set memory usage = 551.612 MB
+           ***** Ending stage netlist pre-processing *****
+           
+           ***** Beginning stage packed netlist loading ... *****
+INFO     : Load Global Network took 1.27853 seconds.
+INFO     : 	Load Global Network took 0.28125 seconds (approximately) in total CPU time.
+INFO     : Load Global Network virtual memory usage: begin = 487.964 MB, end = 489.556 MB, delta = 1.592 MB
+INFO     : 	Load Global Network peak virtual memory usage = 551.38 MB
+INFO     : Load Global Network resident set memory usage: begin = 496.82 MB, end = 498.224 MB, delta = 1.404 MB
+INFO     : 	Load Global Network peak resident set memory usage = 551.612 MB
+INFO     : Reading C:/Efinity/2025.1/arch/.\rr_pb_hier_mapping.xml
+INFO     : Read proto netlist file D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/work_pnr\Ti60_Demo.net_proto
+INFO     : Read proto netlist for file "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/work_pnr\Ti60_Demo.net_proto" took 0.039 seconds
+INFO     : Setup net and block data structure took 0.296 seconds
+INFO     : Reading core interface constraints file "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow/Ti60_Demo.interface.csv"
+INFO     : Successfully read core interface constraints file "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow/Ti60_Demo.interface.csv"
+INFO     : Packed netlist loading took 1.91304 seconds.
+INFO     : 	Packed netlist loading took 0.875 seconds (approximately) in total CPU time.
+INFO     : Packed netlist loading virtual memory usage: begin = 487.964 MB, end = 521.844 MB, delta = 33.88 MB
+INFO     : 	Packed netlist loading peak virtual memory usage = 551.38 MB
+INFO     : Packed netlist loading resident set memory usage: begin = 496.82 MB, end = 530.084 MB, delta = 33.264 MB
+INFO     : 	Packed netlist loading peak resident set memory usage = 551.612 MB
+           ***** Ending stage packed netlist loading *****
+           
+INFO     : Run checks after load placement.
+INFO     : Reading core interface constraints file "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow/Ti60_Demo.interface.csv"
+INFO     : Successfully read core interface constraints file "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow/Ti60_Demo.interface.csv"
+INFO     : Successfully loaded placement data from "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow/Ti60_Demo.place".
+           ***** Beginning stage bitstream generation ... *****
+INFO     : Reading core interface constraints file "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow/Ti60_Demo.interface.csv"
+INFO     : Successfully read core interface constraints file "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow/Ti60_Demo.interface.csv"
+INFO     : Finished writing bitstream file D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/work_pnr\Ti60_Demo.lbf.
+INFO     : Bitstream generation took 2.49396 seconds.
+INFO     : 	Bitstream generation took 2.3125 seconds (approximately) in total CPU time.
+INFO     : Bitstream generation virtual memory usage: begin = 482.884 MB, end = 605.996 MB, delta = 123.112 MB
+INFO     : 	Bitstream generation peak virtual memory usage = 605.996 MB
+INFO     : Bitstream generation resident set memory usage: begin = 491.316 MB, end = 615.728 MB, delta = 124.412 MB
+INFO     : 	Bitstream generation peak resident set memory usage = 615.728 MB
+           ***** Ending stage bitstream generation *****
+           
+INFO     : The entire flow of EFX_PNR took 135.164 seconds.
+INFO     : 	The entire flow of EFX_PNR took 390.25 seconds (approximately) in total CPU time.
+INFO     : The entire flow of EFX_PNR virtual memory usage: begin = 19.864 MB, end = 605.996 MB, delta = 586.132 MB
+INFO     : 	The entire flow of EFX_PNR peak virtual memory usage = 605.996 MB
+INFO     : The entire flow of EFX_PNR resident set memory usage: begin = 21.152 MB, end = 615.752 MB, delta = 594.6 MB
+INFO     : 	The entire flow of EFX_PNR peak resident set memory usage = 615.752 MB

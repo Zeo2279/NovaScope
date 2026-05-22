@@ -1,0 +1,408 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Efinity_prj/Ti60F225_A2020_HDMI_Display_30FPS_V1.3/Ti60F225_AD2020_HDMI_Display_30FPS
+valg_ae
+Z1 !s110 1759676414
+!i10b 1
+!s100 co:A@jYlFWJ`UIP@^C]<11
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2Yja5BR0i<Fn:1=RMIH`a0
+R0
+w1759675768
+8src/isp/AE/alg_ae.v
+Fsrc/isp/AE/alg_ae.v
+!i122 75
+L0 3 179
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z5 !s108 1759676414.000000
+Z6 !s107 test/test.v|src/isp/AE/isp_stat_ae.v|src/isp/AE/i2c_realtime_writer.v|src/isp/AE/i2c_realtime_integration_example.v|src/isp/AE/alg_ae_simple.v|src/isp/AE/alg_ae.v|
+Z7 !s90 src/isp/AE/alg_ae.v|src/isp/AE/alg_ae_simple.v|src/isp/AE/i2c_realtime_integration_example.v|src/isp/AE/i2c_realtime_writer.v|src/isp/AE/isp_stat_ae.v|test/test.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 tCvgOpt 0
+valg_ae_simple
+R1
+!i10b 1
+!s100 j<==[cVY6Ua_@[dQ>?h5T0
+R2
+I@4DZOib;KKD5LXkP0UABX3
+R0
+w1759676319
+8src/isp/AE/alg_ae_simple.v
+Fsrc/isp/AE/alg_ae_simple.v
+!i122 75
+L0 3 182
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R9
+vCMOS_Capture_RAW_Gray
+Z10 !s110 1759628575
+!i10b 1
+!s100 <k7DO15JcYXKzlBJS]X?J3
+R2
+IbcROaN9@j>;aSE:N5M_Z=3
+R0
+w1669130594
+8src/cmos_i2c/CMOS_Capture_RAW_Gray.v
+Fsrc/cmos_i2c/CMOS_Capture_RAW_Gray.v
+!i122 45
+L0 25 164
+R3
+R4
+r1
+!s85 0
+31
+Z11 !s108 1759628575.000000
+Z12 !s107 src/cmos_i2c/i2c_timing_ctrl_reg16_dat8_wronly.v|src/cmos_i2c/i2c_timing_ctrl_reg16_dat16.v|src/cmos_i2c/i2c_timing_ctrl_16bit.v|src/cmos_i2c/I2C_SC130GS_12801024_4Lanes_Config.v|src/cmos_i2c/I2C_MT9M001_Gray_Config.v|src/cmos_i2c/I2C_AR0135_1280720_Config.v|src/cmos_i2c/I2C_AD2020_1280960_FPS60_1Lane_Config.v|src/cmos_i2c/CMOS_Capture_RAW_Gray.v|src/isp/AE/isp_stat_ae.v|src/isp/AE/i2c_realtime_writer.v|src/isp/AE/i2c_realtime_integration_example.v|src/isp/AE/alg_ae.v|test.v|Row_Line_Counter.v|example_top.v|example_top - Copy.v|
+Z13 !s90 example_top - Copy.v|example_top.v|Row_Line_Counter.v|test.v|src/isp/AE/alg_ae.v|src/isp/AE/i2c_realtime_integration_example.v|src/isp/AE/i2c_realtime_writer.v|src/isp/AE/isp_stat_ae.v|src/cmos_i2c/CMOS_Capture_RAW_Gray.v|src/cmos_i2c/I2C_AD2020_1280960_FPS60_1Lane_Config.v|src/cmos_i2c/I2C_AR0135_1280720_Config.v|src/cmos_i2c/I2C_MT9M001_Gray_Config.v|src/cmos_i2c/I2C_SC130GS_12801024_4Lanes_Config.v|src/cmos_i2c/i2c_timing_ctrl_16bit.v|src/cmos_i2c/i2c_timing_ctrl_reg16_dat16.v|src/cmos_i2c/i2c_timing_ctrl_reg16_dat8_wronly.v|
+!i113 0
+R8
+R9
+n@c@m@o@s_@capture_@r@a@w_@gray
+vI2C_AD2020_1280960_FPS60_1Lane_Config
+R10
+!i10b 1
+!s100 5l[G6OnKJEWDmWbZ2iaT31
+R2
+I6A]ahjGQ?P[J[R@5EGKSK0
+R0
+w1758454905
+8src/cmos_i2c/I2C_AD2020_1280960_FPS60_1Lane_Config.v
+Fsrc/cmos_i2c/I2C_AD2020_1280960_FPS60_1Lane_Config.v
+!i122 45
+L0 18 66
+R3
+R4
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R8
+R9
+n@i2@c_@a@d2020_1280960_@f@p@s60_1@lane_@config
+vI2C_AR0135_1280720_Config
+R10
+!i10b 1
+!s100 7;SMj=JYcZ]R@?SIM5@n91
+R2
+I^zOm0i;b]fE@[hbH0K6n>3
+R0
+w1687280704
+8src/cmos_i2c/I2C_AR0135_1280720_Config.v
+Fsrc/cmos_i2c/I2C_AR0135_1280720_Config.v
+!i122 45
+L0 17 56
+R3
+R4
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R8
+R9
+n@i2@c_@a@r0135_1280720_@config
+vI2C_MT9M001_Gray_Config
+R10
+!i10b 1
+!s100 N[iP2inW><Hoge[92_eAL1
+R2
+I16m71ODbY;:M7Wia<XnEC3
+R0
+w1651573300
+8src/cmos_i2c/I2C_MT9M001_Gray_Config.v
+Fsrc/cmos_i2c/I2C_MT9M001_Gray_Config.v
+!i122 45
+L0 22 37
+R3
+R4
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R8
+R9
+n@i2@c_@m@t9@m001_@gray_@config
+vi2c_realtime_integration_example
+Z14 !s110 1759741900
+!i10b 1
+!s100 k]iim_a<;7j2`dgi>N8[@1
+R2
+I?W4k`Sa@W=5XC7^A=YHgB3
+R0
+Z15 w1759741013
+Z16 8src/isp/AE/i2c_realtime_integration_example.v
+Z17 Fsrc/isp/AE/i2c_realtime_integration_example.v
+!i122 133
+L0 6 368
+R3
+R4
+r1
+!s85 0
+31
+Z18 !s108 1759741899.000000
+Z19 !s107 src/isp/AE/i2c_realtime_integration_example.v|
+Z20 !s90 src/isp/AE/i2c_realtime_integration_example.v|
+!i113 0
+R8
+R9
+vi2c_realtime_integration_example_tb
+R14
+!i10b 1
+!s100 HBeML3jC_JO<kHNYLMj:J0
+R2
+IH53fD^9La<K`<jYXKiWN62
+R0
+R15
+R16
+R17
+!i122 133
+L0 378 115
+R3
+R4
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R8
+R9
+vi2c_realtime_writer
+Z21 !s110 1759741899
+!i10b 1
+!s100 K=XXUY7Y1_m6E4Pi1MPLU1
+R2
+Ia_QeHzHJSbCT0<S`4@6Y[0
+R0
+R15
+Z22 8src/isp/AE/i2c_realtime_writer.v
+Z23 Fsrc/isp/AE/i2c_realtime_writer.v
+!i122 132
+L0 6 195
+R3
+R4
+r1
+!s85 0
+31
+R18
+Z24 !s107 src/isp/AE/i2c_realtime_writer.v|
+Z25 !s90 src/isp/AE/i2c_realtime_writer.v|
+!i113 0
+R8
+R9
+vi2c_realtime_writer_tb
+R21
+!i10b 1
+!s100 YA9e8OiaS7RQocHCj6]g[3
+R2
+I5A>iCc2E1<6=naY^a:JTY3
+R0
+R15
+R22
+R23
+!i122 132
+L0 205 93
+R3
+R4
+r1
+!s85 0
+31
+R18
+R24
+R25
+!i113 0
+R8
+R9
+vI2C_SC130GS_12801024_4Lanes_Config
+R10
+!i10b 1
+!s100 b73g_LOzZ_Bhg5==XNGIW2
+R2
+I4^zF1k[S>^i:j_3eXUC3H0
+R0
+w1742453530
+8src/cmos_i2c/I2C_SC130GS_12801024_4Lanes_Config.v
+Fsrc/cmos_i2c/I2C_SC130GS_12801024_4Lanes_Config.v
+!i122 45
+L0 17 84
+R3
+R4
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R8
+R9
+n@i2@c_@s@c130@g@s_12801024_4@lanes_@config
+vi2c_timing_ctrl_16bit
+!s110 1759740991
+!i10b 1
+!s100 f@WZfDBoD5FC>PIe?<cP]2
+R2
+Id:FFXcRF=4Y?7>dfki54k1
+R0
+w1759740985
+8src/cmos_i2c/i2c_timing_ctrl_16bit.v
+Fsrc/cmos_i2c/i2c_timing_ctrl_16bit.v
+!i122 126
+L0 2 390
+R3
+R4
+r1
+!s85 0
+31
+!s108 1759740991.000000
+!s107 src/cmos_i2c/i2c_timing_ctrl_16bit.v|
+!s90 src/cmos_i2c/i2c_timing_ctrl_16bit.v|
+!i113 0
+R8
+R9
+vi2c_timing_ctrl_reg16_dat16
+R10
+!i10b 1
+!s100 =kg8@98A7Re@bLWhiUklO0
+R2
+IYWJLH<oI[n@:35zX9nTHE1
+R0
+w1687281220
+8src/cmos_i2c/i2c_timing_ctrl_reg16_dat16.v
+Fsrc/cmos_i2c/i2c_timing_ctrl_reg16_dat16.v
+!i122 45
+L0 33 533
+R3
+R4
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R8
+R9
+vi2c_timing_ctrl_reg16_dat8_wronly
+R10
+!i10b 1
+!s100 ^S6=O]iF6cO_YIGQ;PodH2
+R2
+IY=ILF:KY0DPh8fAKZl0FC0
+R0
+w1742551680
+8src/cmos_i2c/i2c_timing_ctrl_reg16_dat8_wronly.v
+Fsrc/cmos_i2c/i2c_timing_ctrl_reg16_dat8_wronly.v
+!i122 45
+L0 410 418
+R3
+R4
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R8
+R9
+visp_stat_ae
+R1
+!i10b 1
+!s100 H[H8nU2dIomolzGh>eID]3
+R2
+IF3NESQ:EQFF3>G5:`fA7z1
+R0
+w1759583013
+8src/isp/AE/isp_stat_ae.v
+Fsrc/isp/AE/isp_stat_ae.v
+!i122 75
+L0 13 136
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R9
+vRow_Line_Counter
+R10
+!i10b 1
+!s100 <5iEHG;Vn4m7mM0HjY;F^0
+R2
+IEM3AzCi7G1OPFiSe<`16P2
+R0
+w1750236734
+8Row_Line_Counter.v
+FRow_Line_Counter.v
+!i122 45
+L0 4 81
+R3
+R4
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R8
+R9
+n@row_@line_@counter
+vtest
+!s110 1759841847
+!i10b 1
+!s100 3OCPIjh;i`_FKLEYjn^Ol1
+R2
+IQN^YhC__WYXnAJ5z]7HQ]2
+dd:/Efinity_prj/Ti60F225_A2020_HDMI_Display_30FPS_V1.3/Ti60F225_AD2020_HDMI_Display_30FPS
+w1759841843
+8test/test.v
+Ftest/test.v
+!i122 135
+L0 3 367
+R3
+R4
+r1
+!s85 0
+31
+!s108 1759841847.000000
+!s107 test/test.v|
+!s90 test/test.v|
+!i113 0
+R8
+R9

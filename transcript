@@ -1,0 +1,11 @@
+# vsim -c -do "i2c_wave.do" test 
+# Start time: 15:04:07 on Oct 05,2025
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: src/isp/AE/isp_stat_ae.v(139): Module 'hist_stat' is not defined.
+# ** Error: d:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_writer.v(78): Module 'afifo_w24d16_r24d16' is not defined.
+# ** Error: d:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\i2c_timing_ctrl_16bit.v(587): Module 'afifo_w24d16_r24d16' is not defined.
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=3, Warnings=0.
+# Error loading design
+# End time: 15:04:07 on Oct 05,2025, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0

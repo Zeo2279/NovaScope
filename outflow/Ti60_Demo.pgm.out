@@ -1,0 +1,29 @@
+INFO     : Efinix FPGA Bitstream Generator.
+INFO     : Version: 2025.1.110.2.15 
+INFO     : Copyright (C) 2013 - 2025 Efinix, Inc. All rights reserved.
+INFO     : Compiled: May  7 2025.
+INFO     : Using source file "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/work_pnr/Ti60_Demo.lbf"
+INFO     : Generating HEX programming file for device "Ti60F225", family "Titanium"
+INFO     : Using periphery source file "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow/Ti60_Demo.lpf"
+INFO     : Generating bit file: "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow/Ti60_Demo.bit"
+INFO     : HEX Generation Options Summary:
+INFO     : 	Listing options specified to bitstream generation:
+INFO     : 	bitstream_compression                    = on
+INFO     : 	oscillator_clock_divider                 = DIV2
+INFO     : 	enable_external_master_clock             = off
+INFO     : 	spi_low_power_mode                       = off
+INFO     : 	active_capture_clk_edge                  = negedge
+INFO     : 	enable_remote_update                     = off
+INFO     : 	release_tri_then_reset                   = on
+INFO     : 	enable_seu_crc_check                     = off
+INFO     : 	seu_mode                                 = automatic
+INFO     : 	seu_wait_interval                        = 0xFFFFFF
+INFO     : 	jtag_usercode                            = 0xFFFFFFFF
+INFO     : 	io_weak_pullup                           = on
+INFO     : Finished generating "D:/degree2/FPGA/Nocascope_3/Nocascope_2/1103/Ti60F225_AD2020_HDMI_Display_30FPS/outflow/Ti60_Demo.hex"
+INFO     : Efinix Bitstream Generator took 1.84204 seconds.
+INFO     : 	Efinix Bitstream Generator took 1.5625 seconds (approximately) in total CPU time.
+INFO     : Efinix Bitstream Generator virtual memory usage: begin = 2.556 MB, end = 11.224 MB, delta = 8.668 MB
+INFO     : 	Efinix Bitstream Generator peak virtual memory usage = 167.152 MB
+INFO     : Efinix Bitstream Generator resident set memory usage: begin = 9.02 MB, end = 19.676 MB, delta = 10.656 MB
+INFO     : 	Efinix Bitstream Generator peak resident set memory usage = 172.004 MB

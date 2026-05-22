@@ -1,0 +1,2364 @@
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jun 24, 2023 14:48:59
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 19, 2023 10:00:19
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 19, 2023 10:09:16
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 20, 2023 14:40:57
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 14:52:25
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 15:52:17
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:01:19
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:06:50
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:12:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:19:25
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:32:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:35:45
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:47:42
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:48:08
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:54:36
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 17:02:47
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 17:10:49
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 17:16:45
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 17:24:26
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 17:33:28
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 18:02:15
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:00:59
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'delay_reg' (VERI-1063) (D:\FPGA_learning\Efinity_Project\Ti60F225_AD2020\Ti60F225_AD2020_1280x720@30_HDMI_BasicISP\example_top.v:1045)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:02:04
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:05:20
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:12:17
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:17:29
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'R0_FIFO_32' (VERI-1063) (D:\FPGA_learning\Efinity_Project\Ti60F225_AD2020\Ti60F225_AD2020_1280x720@30_HDMI_BasicISP\src\axi\axi4_ctrl.v:445)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:17:48
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:23:34
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:28:11
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:28:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:34:29
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:40:29
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:43:56
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'bad_dot_improve' (VERI-1063) (D:\FPGA_learning\Efinity_Project\Ti60F225_AD2020\Ti60F225_AD2020_1280x720@30_HDMI_BasicISP\example_top.v:1078)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:44:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:53:15
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:56:21
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:02:35
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:04:30
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:18:34
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:25:31
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:28:39
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:38:19
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:45:24
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:52:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 09:26:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 09:26:34
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 09:28:23
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 10:57:21
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 11:12:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 11:17:20
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 10:29:14
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 10:34:37
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 10:39:17
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 10:39:29
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 10:58:32
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:06:55
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:14:01
+///////////////////////////////////
+
+[EFX-0202 ERROR] Net 'w_csi_rx_clk' has multiple drivers. (D:\temp_colorbar\Ti60F225_AD2020_HDMI_Display\example_top.v:673)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:15:48
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:22:12
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] overwriting previous definition of module 'Row_Line_Counter' (VERI-1206) (D:\temp_colorbar\Ti60F225_AD2020_HDMI_Display\Row_Line_Counter.v:84)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:22:26
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:43:25
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:51:22
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:56:33
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 12:00:38
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 12:02:36
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 12:05:09
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 12:08:00
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 18:02:55
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 06, 2025 11:12:03
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 11:33:40
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 15:30:04
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xef' (VERI-2607) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:47)
+[EFX-0010 VERI-ERROR] syntax error near 'LUT_DATA' (VERI-1137) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:47)
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xef' (VERI-2607) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:48)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:48)
+[EFX-0010 VERI-ERROR] module 'I2C_AD2020_1280960_FPS60_1Lane_Config' is ignored due to previous errors (VERI-1072) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:54)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 15:30:25
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xef' (VERI-2607) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:47)
+[EFX-0010 VERI-ERROR] syntax error near 'LUT_DATA' (VERI-1137) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:47)
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xef' (VERI-2607) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:48)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:48)
+[EFX-0010 VERI-ERROR] module 'I2C_AD2020_1280960_FPS60_1Lane_Config' is ignored due to previous errors (VERI-1072) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:54)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 15:31:14
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xef' (VERI-2607) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:47)
+[EFX-0010 VERI-ERROR] syntax error near 'LUT_DATA' (VERI-1137) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:47)
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xef' (VERI-2607) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:48)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:48)
+[EFX-0010 VERI-ERROR] module 'I2C_AD2020_1280960_FPS60_1Lane_Config' is ignored due to previous errors (VERI-1072) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:54)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 15:33:11
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xef' (VERI-2607) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:47)
+[EFX-0010 VERI-ERROR] syntax error near 'LUT_DATA' (VERI-1137) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:47)
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xef' (VERI-2607) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:48)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:48)
+[EFX-0010 VERI-ERROR] module 'I2C_AD2020_1280960_FPS60_1Lane_Config' is ignored due to previous errors (VERI-1072) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:54)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 15:33:34
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xef' (VERI-2607) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:47)
+[EFX-0010 VERI-ERROR] syntax error near 'LUT_DATA' (VERI-1137) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:47)
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xef' (VERI-2607) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:48)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:48)
+[EFX-0010 VERI-ERROR] module 'I2C_AD2020_1280960_FPS60_1Lane_Config' is ignored due to previous errors (VERI-1072) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:54)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 15:33:50
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xef' (VERI-2607) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:47)
+[EFX-0010 VERI-ERROR] syntax error near 'LUT_DATA' (VERI-1137) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:47)
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xef' (VERI-2607) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:48)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:48)
+[EFX-0010 VERI-ERROR] module 'I2C_AD2020_1280960_FPS60_1Lane_Config' is ignored due to previous errors (VERI-1072) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:54)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 15:34:12
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xef' (VERI-2607) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:47)
+[EFX-0010 VERI-ERROR] syntax error near 'LUT_DATA' (VERI-1137) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:47)
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xef' (VERI-2607) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:48)
+[EFX-0010 VERI-ERROR] syntax error near ';' (VERI-1137) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:48)
+[EFX-0010 VERI-ERROR] module 'I2C_AD2020_1280960_FPS60_1Lane_Config' is ignored due to previous errors (VERI-1072) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\cmos_i2c\I2C_AD2020_1280960_FPS60_1Lane_Config.v:54)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 15:35:08
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 15:39:24
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 15:42:59
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 15:52:58
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 15:59:35
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 16:06:49
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 16:15:02
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 16:40:44
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 17:00:56
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 17:08:17
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 17:15:38
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 17:29:57
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 18:13:39
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'I2C_AD2020_1280960_FPS60_1Lane_Config' (VERI-1063) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:686)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 18:20:36
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'I2C_AD2020_1280960_FPS60_1Lane_Config' (VERI-1063) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:686)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 18:21:02
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'I2C_AD2020_1280960_FPS60_1Lane_Config' (VERI-1063) (D:\FPGA\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:686)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 18:26:15
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 19:35:13
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 21, 2025 19:41:52
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 20:24:32
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 20:44:11
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'AWB_top' (VERI-1063) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1278)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 20:45:15
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'shift_div' (VERI-1063) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AWB\alg_awb.v:35)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 20:46:31
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 20:51:58
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'rgb2ycbcr' (VERI-1063) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1268)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 20:52:45
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 20:58:15
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 21:07:51
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 21:12:20
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'vip_highlight_filter_top' (VERI-1063) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1313)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 21:15:51
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 21:21:13
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'isp_gamma' (VERI-1063) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1443)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 21:22:12
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 21:24:51
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 21:33:02
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 21:37:48
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 21:40:39
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 21:44:33
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 21:51:46
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 21:56:08
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] 'vip_highlight_filter1' is already declared (VERI-1116) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\Reduce_Highlight\highlight_reduce_top.v:65)
+[EFX-0010 VERI-ERROR] module 'vip_highlight_filter_top' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\Reduce_Highlight\highlight_reduce_top.v:86)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 21:56:24
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 22:02:27
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 22:06:27
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 22:16:00
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'pos_frame_vsync' is constantly driven from multiple places (VDB-1000) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\Reduce_Highlight\highlight_reduce_top.v:30)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\Reduce_Highlight\highlight_reduce_top.v:69)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 22:16:23
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 22:50:41
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 01, 2025 23:01:04
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 08:54:40
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 08:57:45
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 09:05:26
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xe5' (VERI-2607) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\Reduce_Highlight\highlight_reduce_top.v:73)
+[EFX-0010 VERI-ERROR] syntax error near '?' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\Reduce_Highlight\highlight_reduce_top.v:73)
+[EFX-0010 VERI-ERROR] module 'vip_highlight_filter_top' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\Reduce_Highlight\highlight_reduce_top.v:91)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 09:06:17
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xe5' (VERI-2607) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\Reduce_Highlight\highlight_reduce_top.v:73)
+[EFX-0010 VERI-ERROR] syntax error near '?' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\Reduce_Highlight\highlight_reduce_top.v:73)
+[EFX-0010 VERI-ERROR] module 'vip_highlight_filter_top' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\Reduce_Highlight\highlight_reduce_top.v:92)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 09:06:45
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xe5' (VERI-2607) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\Reduce_Highlight\highlight_reduce_top.v:73)
+[EFX-0010 VERI-ERROR] syntax error near '?' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\Reduce_Highlight\highlight_reduce_top.v:73)
+[EFX-0010 VERI-ERROR] module 'vip_highlight_filter_top' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\Reduce_Highlight\highlight_reduce_top.v:92)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 09:06:52
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 09:09:38
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 09:14:33
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 09:26:30
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:03:50
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '(' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:311)
+[EFX-0010 VERI-ERROR] 'int' is an unknown type (VERI-1556) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:89)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_integration_example' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:332)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_integration_example_tb' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:447)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:07:53
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '(' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:312)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_integration_example' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:333)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_integration_example_tb' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:448)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:09:47
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '(' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_writer.v:73)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_writer' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_writer.v:189)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_writer_tb' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_writer.v:276)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:10:30
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] index 15 is out of range [9:0] for 'cmos_exposure' (VERI-1216) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1348)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:11:28
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'csi_scl_o' is constantly driven from multiple places (VDB-1000) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:655)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1393)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:12:47
+///////////////////////////////////
+
+[EFX-0101 INTERNAL ERROR] I/O mapping failed (Failed to process tri-state elements: u_i2c_realtime_integration_example/i5 output: i2c_sdat_io).
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:14:19
+///////////////////////////////////
+
+[EFX-0101 INTERNAL ERROR] I/O mapping failed (Failed to process tri-state elements: u_i2c_realtime_integration_example/i5 output: i2c_sdat_io).
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:15:40
+///////////////////////////////////
+
+[EFX-0101 INTERNAL ERROR] I/O mapping failed (Failed to process tri-state elements: u_i2c_realtime_integration_example/i5 output: i2c_sdat_io).
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:20:57
+///////////////////////////////////
+
+[EFX-0101 INTERNAL ERROR] I/O mapping failed (Failed to process tri-state elements: u_i2c_realtime_integration_example/i5 output: i2c_sdat_io).
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:22:07
+///////////////////////////////////
+
+[EFX-0101 INTERNAL ERROR] I/O mapping failed (Failed to process tri-state elements: u_i2c_realtime_integration_example/i5 output: i2c_sdat_io).
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:27:09
+///////////////////////////////////
+
+[EFX-0101 INTERNAL ERROR] I/O mapping failed (Failed to process tri-state elements: u_i2c_realtime_integration_example/i5 output: csi_sda_io).
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:27:44
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'csi_scl_o' is constantly driven from multiple places (VDB-1000) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:655)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1394)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:28:46
+///////////////////////////////////
+
+[EFX-0101 INTERNAL ERROR] I/O mapping failed (Failed to process tri-state elements: u_i2c_realtime_integration_example/i5 output: csi_sda_io).
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:33:14
+///////////////////////////////////
+
+[EFX-0101 INTERNAL ERROR] I/O mapping failed (Failed to process tri-state elements: u_i2c_realtime_integration_example/i5 output: csi_sda_io).
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:33:24
+///////////////////////////////////
+
+[EFX-0101 INTERNAL ERROR] I/O mapping failed (Failed to process tri-state elements: u_i2c_realtime_integration_example/i5 output: csi_sda_io).
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:35:11
+///////////////////////////////////
+
+[EFX-0101 INTERNAL ERROR] I/O mapping failed (Failed to process tri-state elements: u_i2c_realtime_integration_example/i5 output: csi_sda_io).
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:44:01
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] assignment to input 'csi_sda_i' (VERI-1214) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1387)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:46:42
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'csi_scl_o' is constantly driven from multiple places (VDB-1000) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:655)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1394)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:47:10
+///////////////////////////////////
+
+[EFX-0101 INTERNAL ERROR] I/O mapping failed (Failed to process tri-state elements: u_i2c_realtime_integration_example/i5 output: csi_sda_io).
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:48:38
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] port 'csi_sda_io' is not defined (VERI-1171) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1385)
+[EFX-0010 VERI-ERROR] port declaration not allowed in 'example_top' with formal port declaration list (VERI-1197) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1390)
+[EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1917)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 11:58:55
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] port 'csi_sda_io' is not defined (VERI-1171) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1285)
+[EFX-0010 VERI-ERROR] port declaration not allowed in 'example_top' with formal port declaration list (VERI-1197) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1289)
+[EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1816)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 12:00:38
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '(' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:292)
+[EFX-0010 VERI-ERROR] 'int' is an unknown type (VERI-1556) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:92)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_integration_example' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:313)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_integration_example_tb' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:428)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 12:01:51
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] port 'csi_sda_io' is not defined (VERI-1171) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1285)
+[EFX-0010 VERI-ERROR] port declaration not allowed in 'example_top' with formal port declaration list (VERI-1197) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1289)
+[EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1816)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 12:02:43
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '(' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:292)
+[EFX-0010 VERI-ERROR] 'int' is an unknown type (VERI-1556) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:92)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_integration_example' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:313)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_integration_example_tb' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:428)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 12:03:55
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '(' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:292)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_integration_example' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:313)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_integration_example_tb' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:428)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 12:04:18
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '(' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_writer.v:68)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_writer' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_writer.v:173)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_writer_tb' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_writer.v:260)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 12:04:54
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'csi_scl_o' is constantly driven from multiple places (VDB-1000) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:655)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1270)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 12:06:04
+///////////////////////////////////
+
+[EFX-0101 INTERNAL ERROR] I/O mapping failed (Failed to process tri-state elements: u_i2c_realtime_integration_example/i5 output: csi_sda_io).
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 12:07:36
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] assignment to input 'csi_sda_i' (VERI-1214) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1285)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 12:16:55
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'csi_scl_o' is constantly driven from multiple places (VDB-1000) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:655)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1285)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 12:17:09
+///////////////////////////////////
+
+[EFX-0101 INTERNAL ERROR] I/O mapping failed (Failed to process tri-state elements: u_i2c_realtime_integration_example/i5 output: csi_sda_io).
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 13:20:51
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] assignment to input 'csi_sda_i' (VERI-1214) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1285)
+[EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1832)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 13:26:58
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'csi_scl_o' is constantly driven from multiple places (VDB-1000) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:655)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1291)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 13:29:39
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'csi_sda_o' is constantly driven from multiple places (VDB-1000) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:655)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1291)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 13:31:29
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'csi_sda_o' is constantly driven from multiple places (VDB-1000) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:655)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1313)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 13:34:12
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'csi_sda_o' is constantly driven from multiple places (VDB-1000) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:696)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1304)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 13:36:21
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 13:43:20
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 13:43:36
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 02, 2025 13:44:06
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 04, 2025 10:23:53
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 04, 2025 15:35:18
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 09:13:33
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'alg_ae' (VERI-1063) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1255)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 09:13:57
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 10:50:26
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 10:58:26
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 11:02:56
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 11:06:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 11:10:21
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 11:10:28
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 11:14:21
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 11:27:48
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 11:31:55
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 15:18:04
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] 'cmos_change_start_dly' is not declared (VERI-1128) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1296)
+[EFX-0010 VERI-ERROR] 'cmos_change_start_dly' is not declared (VERI-1128) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1298)
+[EFX-0010 VERI-ERROR] 'cmos_change_start_dly' is not declared (VERI-1128) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1303)
+[EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1896)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 15:19:26
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 20:45:49
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'csi_scl_o' is constantly driven from multiple places (VDB-1000) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:659)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1380)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 20:47:25
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 21:17:33
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 21:24:37
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 21:32:00
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 21:37:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 21:39:56
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 21:42:45
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 21:49:15
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 22:00:52
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 22:02:42
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 22:14:08
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '.' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1406)
+[EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1955)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 22:16:16
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] 'init_config_index' is not declared (VERI-1128) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:255)
+[EFX-0010 VERI-ERROR] 'init_config_done' is not declared (VERI-1128) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:256)
+[EFX-0010 VERI-ERROR] 'init_config_done' is not declared (VERI-1128) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:270)
+[EFX-0010 VERI-ERROR] 'init_config_index' is not declared (VERI-1128) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:272)
+[EFX-0010 VERI-ERROR] 'init_config_done' is not declared (VERI-1128) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:275)
+[EFX-0010 VERI-ERROR] 'init_config_index' is not declared (VERI-1128) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:284)
+[EFX-0010 VERI-ERROR] 'init_config_done' is not declared (VERI-1128) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:286)
+[EFX-0010 VERI-ERROR] 'init_config_index' is not declared (VERI-1128) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:291)
+[EFX-0010 VERI-ERROR] 'init_config_index' is not declared (VERI-1128) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:313)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_integration_example' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:507)
+[EFX-0010 VERI-ERROR] module 'i2c_realtime_integration_example_tb' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:626)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 22:16:54
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 22:25:52
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 22:35:16
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '.' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1413)
+[EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1956)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 22:35:42
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'led_status[5]' is constantly driven from multiple places (VDB-1000) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1376)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1388)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 22:36:30
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 22:40:49
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 22:49:35
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'led_status[5]' is constantly driven from multiple places (VDB-1000) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1276)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1401)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 22:50:07
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'led_status[5]' is constantly driven from multiple places (VDB-1000) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1264)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1391)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 22:50:30
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 22:58:24
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 23:02:01
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 23:05:18
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 05, 2025 23:08:46
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 07, 2025 15:16:49
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'i2c_timing_ctrl_16bit_sp' (VERI-1063) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_writer.v:123)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 07, 2025 15:17:24
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'fifo_count[5]' is constantly driven from multiple places (VDB-1000) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:270)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\i2c_realtime_integration_example.v:295)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 07, 2025 15:22:21
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 07, 2025 15:43:22
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 07, 2025 15:51:51
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 07, 2025 15:56:09
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 07, 2025 15:58:48
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 07, 2025 16:07:59
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 07, 2025 16:17:14
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 07, 2025 16:22:46
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'begin' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1369)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'begin' used in incorrect context (VERI-2344) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1369)
+[EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1931)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 07, 2025 16:23:13
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 07, 2025 16:27:11
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 07, 2025 16:32:47
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 07, 2025 16:40:48
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 07, 2025 16:56:33
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 09:05:34
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 09:17:34
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] 'u_i2c_timing_ctrl_16bit' is already declared (VERI-1116) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1433)
+[EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1955)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 09:18:47
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 09:22:13
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 09:30:39
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '[' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:168)
+[EFX-0010 VERI-ERROR] syntax error near '[' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:169)
+[EFX-0010 VERI-ERROR] 'exposure_diff' is not declared (VERI-1128) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:170)
+[EFX-0010 VERI-ERROR] 'gain_diff' is not declared (VERI-1128) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:171)
+[EFX-0010 VERI-ERROR] 'exposure_diff' is not declared (VERI-1128) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:174)
+[EFX-0010 VERI-ERROR] module 'alg_ae' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:206)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 09:31:56
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 09:34:57
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 09:45:44
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] 'u_i2c_timing_ctrl_16bit' is already declared (VERI-1116) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1433)
+[EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1955)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 09:46:06
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 09:48:25
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 09:51:34
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 09:58:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 10:02:50
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 10:06:53
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 10:33:41
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 10:36:13
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 10:46:28
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 10:52:32
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 10:59:48
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:177)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:177)
+[EFX-0010 VERI-ERROR] syntax error near 'end' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:216)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'end' used in incorrect context (VERI-2344) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:216)
+[EFX-0010 VERI-ERROR] module 'alg_ae' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:218)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:00:11
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:178)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:178)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:180)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:191)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:193)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:195)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:199)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:201)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:203)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:210)
+[EFX-0010 VERI-ERROR] 'update_done' is not a constant (VERI-1188) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:178)
+[EFX-0010 VERI-ERROR] 'exposure_diff' is not a constant (VERI-1188) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:187)
+[EFX-0010 VERI-ERROR] 'target_exposure' is not a constant (VERI-1188) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:190)
+[EFX-0010 VERI-ERROR] 'target_exposure' is not a constant (VERI-1188) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:192)
+[EFX-0010 VERI-ERROR] 'target_gain' is not a constant (VERI-1188) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:198)
+[EFX-0010 VERI-ERROR] 'target_gain' is not a constant (VERI-1188) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:200)
+[EFX-0010 VERI-ERROR] module 'alg_ae' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:219)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:00:30
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:171)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:171)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:182)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:182)
+[EFX-0010 VERI-ERROR] syntax error near 'end' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:221)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'end' used in incorrect context (VERI-2344) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:221)
+[EFX-0010 VERI-ERROR] module 'alg_ae' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:223)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:00:51
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:171)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:171)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:182)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:182)
+[EFX-0010 VERI-ERROR] syntax error near 'end' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:221)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'end' used in incorrect context (VERI-2344) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:221)
+[EFX-0010 VERI-ERROR] module 'alg_ae' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V1.3\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\AE\alg_ae.v:223)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:02:44
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:06:59
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:10:21
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:15:41
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:21:07
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:26:00
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:27:11
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:29:31
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:34:03
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:38:06
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:42:23
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:45:14
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:52:23
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 11:59:32
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 12:03:26
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 12:04:49
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 12:09:01
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 12:14:37
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 12:17:18
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 12:21:13
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 12:26:16
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 12:28:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 12:31:44
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 12:35:06
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 12:57:36
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 13:00:27
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 13:00:45
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 13:04:15
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 13:07:39
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 16:19:42
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'wire' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1555)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'wire' used in incorrect context (VERI-2344) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1555)
+[EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1999)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 16:21:07
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] overwriting previous definition of module 'median_filter_3x3' (VERI-1206) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:165)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 16:22:25
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'output' (VERI-1137) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:19)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'output' used in incorrect context (VERI-2344) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:19)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 16:22:48
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot assign to memory 'pre_frame_img_u' directly (VERI-1006) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:102)
+[EFX-0010 VERI-ERROR] cannot assign a packed type to an unpacked type (VERI-1349) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:102)
+[EFX-0010 VERI-ERROR] unpacked value/target cannot be used in an assignment (VERI-1644) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:102)
+[EFX-0010 VERI-ERROR] cannot assign to memory 'pre_frame_img_v' directly (VERI-1006) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:103)
+[EFX-0010 VERI-ERROR] cannot assign a packed type to an unpacked type (VERI-1349) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:103)
+[EFX-0010 VERI-ERROR] unpacked value/target cannot be used in an assignment (VERI-1644) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:103)
+[EFX-0010 VERI-ERROR] module 'vip_gray_median_filter' is ignored due to previous errors (VERI-1072) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:123)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 16:24:27
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot find port 'clk' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1532)
+[EFX-0010 VERI-ERROR] cannot find port 'rst_n' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1533)
+[EFX-0010 VERI-ERROR] cannot find port 'pre_img_cb' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1540)
+[EFX-0010 VERI-ERROR] cannot find port 'pre_img_cr' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1541)
+[EFX-0010 VERI-ERROR] cannot find port 'pos_img_cb' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1547)
+[EFX-0010 VERI-ERROR] cannot find port 'pos_img_cr' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1548)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 16:26:07
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot find port 'clk_sys' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:59)
+[EFX-0010 VERI-ERROR] cannot find port 'rst_sys' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:60)
+[EFX-0010 VERI-ERROR] cannot find port 'clk_sys' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:72)
+[EFX-0010 VERI-ERROR] cannot find port 'rst_sys' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:73)
+[EFX-0010 VERI-ERROR] cannot find port 'clk_sys' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:85)
+[EFX-0010 VERI-ERROR] cannot find port 'rst_sys' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:86)
+[EFX-0010 VERI-ERROR] cannot find port 'clk_sys' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:99)
+[EFX-0010 VERI-ERROR] cannot find port 'rst_sys' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:100)
+[EFX-0010 VERI-ERROR] cannot find port 'clk_sys' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:112)
+[EFX-0010 VERI-ERROR] cannot find port 'rst_sys' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:113)
+[EFX-0010 VERI-ERROR] cannot find port 'clk_sys' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:125)
+[EFX-0010 VERI-ERROR] cannot find port 'rst_sys' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:126)
+[EFX-0010 VERI-ERROR] cannot find port 'clk_sys' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:139)
+[EFX-0010 VERI-ERROR] cannot find port 'rst_sys' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:140)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 16:28:58
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'sort3_1' (VERI-1063) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module median_filter_3x3.v:69)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 16:29:15
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] overwriting previous definition of module 'sort3' (VERI-1206) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module sort3.v:47)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 16:29:56
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 16:43:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 16:46:03
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 16:54:24
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot find port 'pre_frame_vsync' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:49)
+[EFX-0010 VERI-ERROR] cannot find port 'pre_frame_href' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:50)
+[EFX-0010 VERI-ERROR] cannot find port 'pre_frame_clken' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:51)
+[EFX-0010 VERI-ERROR] cannot find port 'pre_img_y' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:52)
+[EFX-0010 VERI-ERROR] cannot find port 'matrix_frame_clken' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:57)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 16:56:08
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot find port 'pre_frame_vsync' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:49)
+[EFX-0010 VERI-ERROR] cannot find port 'pre_frame_href' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:50)
+[EFX-0010 VERI-ERROR] cannot find port 'pre_frame_hsync' on this module (VERI-1010) (D:\Efinity_prj\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\median_filter\module vip_gray_median_filter.v:51)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 16:56:49
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 17:19:18
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 17:26:05
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 12, 2025 17:37:51
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 31, 2025 20:39:17
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'uart_control_top' (VERI-1063) (D:\degree2\FPGA\Ti60F225_A2020_HDMI_Display_30FPS_V2 (1)\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1769)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 31, 2025 20:40:44
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 31, 2025 20:48:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 31, 2025 21:07:28
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 31, 2025 21:41:52
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 31, 2025 21:57:13
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 31, 2025 22:02:36
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 01, 2025 19:43:47
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 01, 2025 19:52:14
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 01, 2025 20:32:37
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 02, 2025 14:37:26
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 02, 2025 14:37:39
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 02, 2025 21:40:58
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'pos_mf_vsync' is constantly driven from multiple places (VDB-1000) (D:\FPGA\2025.11.02\from_ZWQ\Ti60F225_A2020_HDMI_Display_final1\Ti60F225_A2020_HDMI_Display_30FPS_V2 (1)\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1549)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\FPGA\2025.11.02\from_ZWQ\Ti60F225_A2020_HDMI_Display_final1\Ti60F225_A2020_HDMI_Display_30FPS_V2 (1)\Ti60F225_A2020_HDMI_Display_30FPS_V2\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1653)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 02, 2025 21:45:57
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 14:57:30
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 15:13:07
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 15:31:35
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 16:58:21
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] concurrent assignment to a non-net 'model_select' is not permitted (VERI-1195) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:2022)
+[EFX-0010 VERI-ERROR] mixed concurrent and procedural assignments on 'model_select' (VERI-2366) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:2052)
+[EFX-0010 VERI-ERROR] mixed concurrent and procedural assignments on 'model_select' (VERI-2366) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:2070)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 16:59:55
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 17:13:34
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] 'pos_my_vsync' is not declared (VERI-1128) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1774)
+[EFX-0010 VERI-ERROR] 'pos_my_hsync' is not declared (VERI-1128) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1775)
+[EFX-0010 VERI-ERROR] 'pos_my_href' is not declared (VERI-1128) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1776)
+[EFX-0010 VERI-ERROR] 'pos_my_y' is not declared (VERI-1128) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1777)
+[EFX-0010 VERI-ERROR] 'pos_my_u' is not declared (VERI-1128) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1778)
+[EFX-0010 VERI-ERROR] 'pos_my_v' is not declared (VERI-1128) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1779)
+[EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:2338)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 17:14:15
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 17:17:11
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 17:21:39
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 17:29:53
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 17:36:26
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 19:36:07
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 20:51:31
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_v' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1768)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_u' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1769)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_y' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1770)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_href' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1771)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_vsync' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1772)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_hsync' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1773)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_v' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1776)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_u' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1777)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_y' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1778)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_href' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1779)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_vsync' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1780)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_hsync' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1781)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_v' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1784)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_u' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1785)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_y' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1786)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_href' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1787)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_vsync' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1788)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_hsync' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1789)
+[EFX-0010 VERI-ERROR] procedural assignment to a non-register 'pos_filter_v' is not permitted (VERI-1100) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1792)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 20:57:27
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 21:26:46
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'pos_2dnr_vsync' is constantly driven from multiple places (VDB-1000) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1626)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1652)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 21:41:59
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 22:04:23
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 22:44:59
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 22:48:05
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '.' (VERI-1137) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1620)
+[EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:2385)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 03, 2025 22:49:04
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 04, 2025 20:42:03
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'isp_bilateral_filter_simple' (VERI-1063) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1699)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 04, 2025 20:42:39
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] declarations are not allowed in an unnamed block (VERI-1380) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\isp_bilateral_filter_simple.v:222)
+[EFX-0010 VERI-ERROR] cannot access memory 'taps' directly (VERI-1002) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\isp_bilateral_filter_simple.v:55)
+[EFX-0010 VERI-ERROR] module 'isp_bilateral_filter_simple' is ignored due to previous errors (VERI-1072) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\src\isp\isp_bilateral_filter_simple.v:246)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 04, 2025 21:02:29
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'isp_dpc' (VERI-1063) (D:\degree2\FPGA\1103\1103\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1717)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 04, 2025 21:02:50
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 04, 2025 21:25:07
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 05, 2025 08:36:33
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 05, 2025 23:10:44
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 06, 2025 08:45:41
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 06, 2025 08:50:38
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Nov 06, 2025 08:55:33
+///////////////////////////////////
+
