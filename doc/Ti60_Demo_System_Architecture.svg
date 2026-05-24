@@ -45,11 +45,9 @@
     <text x="810" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">16-bit / 256MB</text>
 
     <!-- Display Panels -->
-    <rect x="1000" y="340" width="150" height="140" fill="#fbf1f6" stroke="#b83280" stroke-width="2" rx="8" />
+    <rect x="1000" y="340" width="150" height="70" fill="#fbf1f6" stroke="#b83280" stroke-width="2" rx="8" />
     <text x="1075" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">显示终端</text>
-    <text x="1075" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">MIPI-DSI LCD</text>
-    <text x="1075" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">HDMI 显示器</text>
-    <text x="1075" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">LVDS / RGB 屏幕</text>
+    <text x="1075" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">HDMI 显示器</text>
   </g>
 
   <!-- Internal FPGA Components -->
@@ -94,12 +92,9 @@
     <text x="810" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">128-bit AXI4 总线</text>
 
     <!-- Display TX -->
-    <rect x="730" y="340" width="160" height="140" fill="#fbf1f6" stroke="#b83280" stroke-width="2" rx="8" />
+    <rect x="730" y="340" width="160" height="70" fill="#fbf1f6" stroke="#b83280" stroke-width="2" rx="8" />
     <text x="810" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">显示接口发送端</text>
-    <text x="810" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">MIPI-DSI TX</text>
-    <text x="810" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">HDMI TX IP</text>
-    <text x="810" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">LVDS 驱动</text>
-    <text x="810" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">RGB LCD 控制</text>
+    <text x="810" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">HDMI TX IP</text>
   </g>
 
   <!-- Connections / Lines -->
@@ -125,8 +120,8 @@
   <text x="820" y="300" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4a5568">读取帧 (YUV/RGB)</text>
 
   <!-- Display TX -> Display Panel -->
-  <path d="M 890 410 L 1000 410" stroke="#4a5568" stroke-width="3" fill="none" marker-end="url(#arrow)" />
-  <text x="945" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4a5568">视频流输出</text>
+  <path d="M 890 375 L 1000 375" stroke="#4a5568" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+  <text x="945" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4a5568">视频流输出</text>
 
   <!-- I2C -> CMOS -->
   <path d="M 270 340 L 115 340 L 115 250" stroke="#d69e2e" stroke-width="2" stroke-dasharray="5,5" fill="none" marker-end="url(#arrow-orange)" />
