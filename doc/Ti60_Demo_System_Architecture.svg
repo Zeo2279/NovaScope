@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="100%" height="100%" style="background-color: #ffffff;">
+  <defs>
+    <!-- Arrowhead markers -->
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#4a5568"/>
+    </marker>
+    <marker id="arrow-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#3182ce"/>
+    </marker>
+    <marker id="arrow-orange" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#d69e2e"/>
+    </marker>
+    <marker id="arrow-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#16a34a"/>
+    </marker>
+    <!-- Shadow filter -->
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="3" dy="3" stdDeviation="3" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <!-- Title -->
+  <text x="50" y="50" text-anchor="start" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2d3748">NovaScope 图像处理与显示系统架构图</text>
+
+  <!-- FPGA Boundary -->
+  <rect x="230" y="100" width="710" height="460" fill="#f8fafc" stroke="#cbd5e1" stroke-width="3" stroke-dasharray="10,6" rx="15" />
+  <text x="250" y="135" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#64748b">Efinix Titanium Ti60F225 FPGA</text>
+
+  <!-- External Components -->
+  <g filter="url(#shadow)">
+    <!-- CMOS Sensor -->
+    <rect x="40" y="160" width="150" height="80" fill="#fffaf0" stroke="#dd6b20" stroke-width="2" rx="8" />
+    <text x="115" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">CMOS Sensor</text>
+    <text x="115" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#dd6b20">AD2020 (内窥镜专用)</text>
+
+    <!-- PC 上位机 -->
+    <rect x="40" y="440" width="150" height="80" fill="#f0fdf4" stroke="#16a34a" stroke-width="2" rx="8" />
+    <text x="115" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">PC 上位机</text>
+    <text x="115" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#16a34a">参数监控与调节</text>
+
+    <!-- DDR3 Memory -->
+    <rect x="730" y="10" width="160" height="60" fill="#f0fff4" stroke="#38a169" stroke-width="2" rx="8" />
+    <text x="810" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">DDR3 Memory</text>
+    <text x="810" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">16-bit / 256MB</text>
+
+    <!-- Display Panels -->
+    <rect x="1000" y="340" width="150" height="140" fill="#fbf1f6" stroke="#b83280" stroke-width="2" rx="8" />
+    <text x="1075" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">显示终端</text>
+    <text x="1075" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">MIPI-DSI LCD</text>
+    <text x="1075" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">HDMI 显示器</text>
+    <text x="1075" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">LVDS / RGB 屏幕</text>
+  </g>
+
+  <!-- Internal FPGA Components -->
+  <g filter="url(#shadow)">
+    <!-- MIPI-CSI RX -->
+    <rect x="270" y="160" width="160" height="90" fill="#ebf8ff" stroke="#3182ce" stroke-width="2" rx="8" />
+    <text x="350" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">MIPI-CSI RX</text>
+    <text x="350" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">csi_rx IP (4-Lane)</text>
+
+    <!-- I2C Config -->
+    <rect x="270" y="290" width="160" height="100" fill="#fffff0" stroke="#d69e2e" stroke-width="2" rx="8" />
+    <text x="350" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">I2C 传感器配置</text>
+    <text x="350" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">AD2020 寄存器表</text>
+    <text x="350" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">实时AE/AWB闭环</text>
+
+    <!-- UART -->
+    <rect x="270" y="440" width="160" height="80" fill="#f0fdf4" stroke="#16a34a" stroke-width="2" rx="8" />
+    <text x="350" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">UART 通信控制</text>
+    <text x="350" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">16倍采样</text>
+    <text x="350" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">指令解析</text>
+
+    <!-- ISP Pipeline -->
+    <rect x="490" y="160" width="180" height="360" fill="#e0e7ff" stroke="#4f46e5" stroke-width="2" rx="8" />
+    <text x="580" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2d3748">ISP Pipeline</text>
+    <line x1="500" y1="205" x2="660" y2="205" stroke="#a5b4fc" stroke-width="1" />
+    <text x="580" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">DPC 坏点校正</text>
+    <text x="580" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">Bayer2RGB 去马赛克</text>
+    <text x="580" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">自动曝光 (AE)</text>
+    <text x="580" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">自动白平衡 (AWB)</text>
+    <text x="580" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">图像降噪 (NR/BNR)</text>
+    <text x="580" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">锐化增强 (EE)</text>
+    <text x="580" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">高光抑制 (HL)</text>
+    <text x="580" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">Gamma与色彩转换</text>
+    <text x="580" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">图像边界裁剪</text>
+    <text x="580" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">OSD 字符叠加</text>
+    <text x="580" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">格式转换 (YUV/RGB)</text>
+
+    <!-- DDR3 Ctrl -->
+    <rect x="730" y="160" width="160" height="100" fill="#f0fff4" stroke="#38a169" stroke-width="2" rx="8" />
+    <text x="810" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">DDR3 控制器</text>
+    <text x="810" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">DdrCtrl IP</text>
+    <text x="810" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">128-bit AXI4 总线</text>
+
+    <!-- Display TX -->
+    <rect x="730" y="340" width="160" height="140" fill="#fbf1f6" stroke="#b83280" stroke-width="2" rx="8" />
+    <text x="810" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">显示接口发送端</text>
+    <text x="810" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">MIPI-DSI TX</text>
+    <text x="810" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">HDMI TX IP</text>
+    <text x="810" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">LVDS 驱动</text>
+    <text x="810" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4a5568">RGB LCD 控制</text>
+  </g>
+
+  <!-- Connections / Lines -->
+  <!-- CMOS -> CSI -->
+  <path d="M 190 200 L 270 200" stroke="#4a5568" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+  <text x="230" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4a5568">RAW 数据</text>
+
+  <!-- CSI -> ISP -->
+  <path d="M 430 210 L 490 210" stroke="#4a5568" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+  <text x="460" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4a5568">Bayer 流</text>
+
+  <!-- ISP -> DDR Ctrl -->
+  <path d="M 670 210 L 730 210" stroke="#4a5568" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+  <text x="700" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4a5568">写入帧</text>
+
+  <!-- DDR Ctrl <-> DDR3 Chip -->
+  <path d="M 790 160 L 790 80" stroke="#4a5568" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+  <path d="M 830 80 L 830 160" stroke="#4a5568" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+  <text x="845" y="120" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4a5568">AXI4 总线读写</text>
+
+  <!-- DDR Ctrl -> Display TX -->
+  <path d="M 810 260 L 810 340" stroke="#4a5568" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+  <text x="820" y="300" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4a5568">读取帧 (YUV/RGB)</text>
+
+  <!-- Display TX -> Display Panel -->
+  <path d="M 890 410 L 1000 410" stroke="#4a5568" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+  <text x="945" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4a5568">视频流输出</text>
+
+  <!-- I2C -> CMOS -->
+  <path d="M 270 340 L 115 340 L 115 250" stroke="#d69e2e" stroke-width="2" stroke-dasharray="5,5" fill="none" marker-end="url(#arrow-orange)" />
+  <text x="190" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#d69e2e">寄存器初始化与配置</text>
+
+  <!-- ISP -> I2C -->
+  <path d="M 490 340 L 430 340" stroke="#3182ce" stroke-width="2" stroke-dasharray="5,5" fill="none" marker-end="url(#arrow-blue)" />
+  <text x="460" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3182ce">AE反馈</text>
+
+  <!-- PC <-> UART -->
+  <path d="M 190 470 L 270 470" stroke="#16a34a" stroke-width="2" fill="none" marker-end="url(#arrow-green)" />
+  <path d="M 270 490 L 190 490" stroke="#16a34a" stroke-width="2" fill="none" marker-end="url(#arrow-green)" />
+  <text x="230" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#16a34a">控制指令</text>
+  <text x="230" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#16a34a">状态返回</text>
+
+  <!-- UART -> ISP -->
+  <path d="M 430 480 L 490 480" stroke="#16a34a" stroke-width="2" stroke-dasharray="5,5" fill="none" marker-end="url(#arrow-green)" />
+  <text x="460" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#16a34a">ISP调参</text>
+</svg>
