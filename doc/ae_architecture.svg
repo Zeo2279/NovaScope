@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" width="100%" height="100%">
+    <defs>
+        <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="#444" />
+        </marker>
+        <marker id="arrow-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="#d32f2f" />
+        </marker>
+        <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+            <feDropShadow dx="2" dy="4" stdDeviation="3" flood-opacity="0.15" />
+        </filter>
+        <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#ffffff"/>
+            <stop offset="100%" stop-color="#f0f4f8"/>
+        </linearGradient>
+    </defs>
+
+    <!-- 背景 -->
+    <rect width="960" height="420" fill="url(#bg-grad)"/>
+    <text x="480" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#2c3e50">自动曝光 (AE) 硬件闭环控制架构图</text>
+    
+    <!-- 虚线框：FPGA 内部逻辑 -->
+    <rect x="270" y="100" width="670" height="170" fill="none" stroke="#9e9e9e" stroke-width="1.5" stroke-dasharray="6,4" rx="10"/>
+    <text x="280" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" font-style="italic" fill="#757575">FPGA 内部 ISP 处理管线 (Pipeline)</text>
+
+    <!-- 模块 1: CMOS Sensor -->
+    <rect x="40" y="140" width="160" height="110" rx="8" fill="#e3f2fd" stroke="#1565c0" stroke-width="2" filter="url(#shadow)"/>
+    <text x="120" y="175" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0d47a1">CMOS 传感器</text>
+    <text x="120" y="200" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#1565c0">(A2020 / SC130GS)</text>
+    <text x="120" y="225" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">光电转换与图像输出</text>
+
+    <!-- 模块 2: isp_stat_ae -->
+    <rect x="290" y="140" width="160" height="110" rx="8" fill="#f3e5f5" stroke="#6a1b9a" stroke-width="2" filter="url(#shadow)"/>
+    <text x="370" y="175" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#4a148c">亮度统计模块</text>
+    <text x="370" y="200" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6a1b9a">(isp_stat_ae)</text>
+    <text x="370" y="225" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">实时累加全图亮度</text>
+
+    <!-- 模块 3: alg_ae -->
+    <rect x="540" y="140" width="160" height="110" rx="8" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2" filter="url(#shadow)"/>
+    <text x="620" y="175" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1b5e20">AE 控制算法</text>
+    <text x="620" y="200" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#2e7d32">(状态机 / LUT计算)</text>
+    <text x="620" y="225" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">比较均值与目标步长</text>
+
+    <!-- 模块 4: i2c_realtime_writer -->
+    <rect x="760" y="140" width="160" height="110" rx="8" fill="#fff3e0" stroke="#ef6c00" stroke-width="2" filter="url(#shadow)"/>
+    <text x="840" y="175" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#e65100">I2C 实时控制模块</text>
+    <text x="840" y="200" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ef6c00">(i2c_realtime_writer)</text>
+    <text x="840" y="225" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">异步缓冲与底层时序</text>
+
+    <!-- 连线 1: Sensor -> stat -->
+    <path d="M 200 195 L 280 195" fill="none" stroke="#444" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="240" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">像素数据</text>
+    <text x="240" y="190" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">VSYNC/DATA</text>
+
+    <!-- 连线 2: stat -> alg -->
+    <path d="M 450 195 L 530 195" fill="none" stroke="#444" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="490" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">亮度总和(Sum)</text>
+    <text x="490" y="190" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">帧完成(Done)</text>
+
+    <!-- 连线 3: alg -> i2c -->
+    <path d="M 700 195 L 750 195" fill="none" stroke="#444" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="725" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">曝光/增益</text>
+    <text x="725" y="190" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">寄存器数据</text>
+
+    <!-- 反馈连线 4: i2c -> Sensor (闭环) -->
+    <path d="M 840 250 L 840 330 L 120 330 L 120 255" fill="none" stroke="#d32f2f" stroke-width="2" stroke-dasharray="6,4" marker-end="url(#arrow-red)"/>
+    
+    <!-- 闭环反馈文字 -->
+    <circle cx="480" cy="330" r="14" fill="#d32f2f"/>
+    <text x="480" y="335" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">!</text>
+    
+    <text x="480" y="315" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#d32f2f">I2C 物理总线 (SCL, SDA) —— 闭环反馈控制</text>
+    <text x="480" y="350" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#555">将新算出的快门时间 (Exposure) 和 模拟增益 (Gain) 写入 Sensor，形成下一帧画面的动态调节</text>
+</svg>
