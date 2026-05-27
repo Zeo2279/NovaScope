@@ -144,3 +144,181 @@ assign csi_scl_o = ae_enable?(sc130_i2c_scl_o & ae_i2c_scl_o):sc130_i2c_scl_o;
 *   **时间要求与防冲突**：
     *   3 次 8 位有效数据的 I2C 写入（加上协议本身的开销），总计耗时约在几百微秒（us）级别。而通常图像传感器的 VBLANK 时间也在毫秒（ms）或大几百微秒级别。因此，只要保证 VBLANK 的持续时间略大于 I2C 传输时间，就能确保在新的一帧的第一行像素开始曝光前，新的配置已经全部写入 CMOS 传感器并被锁存生效。
     *   状态机内部严格的握手机制和 `timeout_counter` 超时机制，确保了 I2C 传输过程的时序安全。如果因干扰导致传感器没有回 ACK 或者总线拉死，系统也会在超时后强行结束写入状态机，避免把传输拖延到下一帧的有效图像区域。
+
+---
+
+## 7. I2C 写入控制逻辑详解（底层数据通道）
+
+上面第 3 节讲了"状态机发出什么命令"，本节深入讲解"命令如何被传输到物理总线上"。这中间有一层关键的 **FIFO 缓冲 + VALID/READY 握手 + i2c_transfer_complete 反馈**机制。
+
+### 7.1 数据链路总览
+
+```
+┌─────────────┐     ┌──────────────┐     ┌─────────────────┐     ┌──────────┐
+│  AE更新      │     │   缓冲FIFO    │     │ i2c_realtime_   │     │  CMOS    │
+│  状态机      │────>│  (32深×24bit)│────>│ writer (底层驱动)│────>│ Sensor   │
+│             │     │              │     │                 │     │ (I2C总线)│
+│ update_valid│     │ fifo_wr_en   │     │ data_valid      │     │          │
+│ update_addr │     │ fifo_wr_data │     │ data_ready      │     │ SCL + SDA│
+│ update_data │     │ fifo_full    │     │ realtime_data   │     │          │
+│             │     │ fifo_empty   │     │                 │     │          │
+│             │<─── │              │<─── │ i2c_transfer_   │<─── │          │
+│             │     │              │     │   complete      │     │          │
+└─────────────┘     └──────────────┘     └─────────────────┘     └──────────┘
+```
+
+### 7.2 为什么需要中间的缓冲 FIFO
+
+AE 状态机和 I2C 底层驱动之间有三重"速度不匹配"：
+
+| 层级 | 时钟域 | 速度 |
+|------|--------|------|
+| AE 状态机 | 96MHz (sys_clk) | 极快，纳秒级写入一条命令 |
+| 缓冲 FIFO | 96MHz (sys_clk) 统一时钟 | 同步 FIFO，读写同频 |
+| I2C 底层驱动 | 96MHz 时钟域 + 400KHz I2C 总线 | 极慢，一条写操作约 100μs |
+
+如果不加 FIFO，AE 状态机每发一个字节就要**阻塞等待 ~100μs** 直到 I2C 传输完成，浪费大量时钟周期。加了 FIFO 后，状态机可以一口气把 3 条命令（曝光低 8 位、曝光高 8 位、增益）全部灌入 FIFO 仅需 3 个时钟周期，然后立即返回 IDLE，不等 I2C 实际写完。I2C 驱动从 FIFO 中一条条取出、慢慢发送。
+
+### 7.3 FIFO 的控制逻辑（关键代码解析）
+
+```verilog
+// FIFO 本体：32 深度 × 24 bit
+// 24bit 格式：{8'h6a(器件地址), update_addr[15:0], update_data[7:0]}
+//            = {器件ID, 寄存器地址高8, 寄存器地址低8, 写入数据}
+reg [23:0] buffer_fifo [0:31];
+reg [4:0]  wr_ptr, rd_ptr;     // 读写指针
+reg [5:0]  fifo_count;          // 当前 FIFO 中的数据条数
+
+// ===== 写侧：AE 状态机 → FIFO =====
+if (fifo_wr_en && !fifo_full) begin
+    buffer_fifo[wr_ptr] <= fifo_wr_data;  // 存入数据
+    wr_ptr <= wr_ptr + 1;                 // 写指针递增
+    fifo_count <= fifo_count + 1;         // 计数器 +1
+end
+
+// ===== 读侧：FIFO → I2C 驱动 =====
+if (i2c_write_ready && !i2c_write_valid && !fifo_empty) begin
+    i2c_write_data  <= buffer_fifo[rd_ptr];  // 取出数据，拉起 valid
+    i2c_write_valid <= 1'b1;                  // 通知 I2C 驱动："有新命令"
+end
+else if (i2c_write_valid && i2c_write_ready) begin
+    i2c_write_valid <= 1'b0;              // 握手完成后撤销 valid
+    rd_ptr <= rd_ptr + 1;                 // 读指针递增
+    fifo_count <= fifo_count - 1;         // 计数器 -1
+end
+
+assign fifo_full  = (fifo_count == 6'd32);  // 满：count=32
+assign fifo_empty = (fifo_count == 6'd0);   // 空：count=0
+```
+
+**读侧的关键时序**：
+
+```
+clk        : _/‾\_/‾\_/‾\_/‾\_/‾\_/‾\_/‾\_/‾\_
+i2c_write_ready  : ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+fifo_empty : ‾‾‾‾‾‾‾‾\_____________________/‾‾‾ (有数据了)
+i2c_write_valid  : ____________/‾‾‾‾‾‾‾‾\______ (拉高 → 握手 → 撤销)
+i2c_write_data   : <无效> ___<命令0_valid>____<无效>
+
+T0: ready=1, 空=0, valid=0 → 取出命令0，拉高 valid
+T1: ready=1, valid=1 → 握手完成（命令被 I2C 驱动接收），撤销 valid，读指针+1
+T2: 循环检查 FIFO 是否还有下一条命令...
+```
+
+### 7.4 `i2c_transfer_complete` 反馈链
+
+这是 AE 状态机判断"一条 I2C 写入真正完成"的唯一依据，整条链路如下：
+
+```
+I2C 物理总线
+  │
+  │  停止位发送完成（SCL 第 9 个时钟后）
+  v
+i2c_timing_ctrl_16bit 内部计数器归零
+  │
+  │  拉高 i2c_transfer_complete（持续 1 个 sys_clk 周期）
+  v
+AE 状态机检测到 complete 上升沿
+  │
+  │  状态跳转：EXP_LOW → EXP_HIGH → GAIN → IDLE
+  v
+```
+
+**为什么要用上升沿检测而不是电平检测**：
+
+```verilog
+// 打一拍做边沿检测
+always @(posedge clk)
+    i2c_transfer_complete_dly <= i2c_transfer_complete;
+
+// 检测上升沿（刚完成的那一拍）
+wire transfer_just_done = i2c_transfer_complete && ~i2c_transfer_complete_dly;
+```
+
+如果用电平检测（`if (i2c_transfer_complete)`），状态机会在 complete 拉高的**整个周期**内多次触发状态跳转，导致一条 I2C 完成信号被解释为多次——状态机直接飞掉。
+
+### 7.5 超时保护机制
+
+这是工程上非常关键的防御性设计：
+
+```verilog
+localparam TIMEOUT_COUNT = 32'd192000;   // 96MHz × 2ms = 192000 个周期
+
+always @(posedge clk or negedge rst_n) begin
+    if (!rst_n) begin
+        timeout_counter <= 0;
+        timeout_enabled <= 0;
+    end
+    else begin
+        case (update_state)
+            UPDATE_IDLE: begin
+                timeout_counter <= 0;
+                timeout_enabled <= 0;
+            end
+            UPDATE_EXP_LOW, UPDATE_EXP_HIGH, UPDATE_GAIN: begin
+                timeout_enabled <= 1;                      // 非 IDLE 即启动计时
+                timeout_counter <= timeout_counter + 1;    // 递增
+            end
+        endcase
+    end
+end
+
+// 在等待 complete 的条件中加入超时判断
+// 正常:   if (i2c_transfer_complete)     → 跳转下一个状态
+// 超时:   else if (timeout_counter >= TIMEOUT_COUNT) → 强制跳回 IDLE
+```
+
+**为什么选 2ms**：
+- 一次 400KHz I2C 写操作（START + 器件地址 + 寄存器高 8 + 寄存器低 8 + 数据 + STOP）= 约 36 个 SCL 周期 = 约 90μs
+- 2ms = 约 22 倍余量，足够覆盖正常操作 + 从设备 stretch 时钟的情况
+- 如果 2ms 还没完成，一定是总线卡死了（从设备无响应/短路/ACK 丢失）
+
+超时后状态机强制回 IDLE，避免永久卡死在等待态导致 AE 彻底失效。
+
+### 7.6 完整写入时序图（Waveform 视角）
+
+```
+        ┌─ 帧 N 结束 ──┬── VBLANK ──┬── 帧 N+1 开始 ──┐
+VSYNC   ───────────────┐            ┌─────────────────────
+                       │            │
+ae_done  ──────────┐   │            │
+                   └───┘            │
+                       │            │
+cmos_change_start ──┐ │            │
+                    └─┘            │
+                       │            │
+update_state  IDLE │EXP_L│EXP_H│GAIN│ IDLE
+                       │            │
+update_valid ──┐    ┌──┐ ┌──┐ ┌──┐ │
+               └────┘  └─┘ └─┘ └─┘ │
+                       │            │
+I2C SCL     ──────────┐┌┐┌┐┌┐┌─────┐│
+(400KHz)              └┘└┘└┘└┘     └┘
+                       │← 3×~100μs →│
+                       │   ~300μs   │
+                       │            │
+VBLANK                          ────┘
+                       │← 1~2ms 充足 →│
+```
+
+关键约束：**3 次 I2C 写入的总耗时（~300μs）必须远小于 VBLANK 时长（~1-2ms）**，确保新参数在新帧第一行像素曝光前已写入传感器寄存器并生效。这就是"帧间消隐区完成配置"的时序底线。
