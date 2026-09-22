@@ -1,0 +1,31 @@
+# Efinity build products (including vendor example builds)
+outflow/
+work/
+work_syn/
+work_pnr/
+work_pt/
+work_dbg/
+*.log
+transcript
+*.vcd
+*.wlf
+*.bak
+__pycache__/
+
+# Local debug captures and backup source; keep the files on disk.
+/la0_waveform.gtkw
+/example_top - Copy.v
+/test/i2c_wave.do
+
+# Bundled desktop software is not a source dependency.
+/src/word_extract/PCtoLCD/
+/src/word_extract/*.rar
+
+# Local credentials and editor settings
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

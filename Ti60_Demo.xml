@@ -9,7 +9,7 @@
         <efx:top_module name="example_top"/>
         <efx:design_file name="example_top.v" version="default" library="default"/>
         <efx:design_file name="src/ddr_rw_ctrl.v" version="default" library="default"/>
-        <efx:design_file name="src/cmos_i2c/i2c_timing_ctrl_16bit.v" version="default" library="default"/>
+        <efx:design_file name="src/isp/AE/i2c_timing_ctrl_16bit.v" version="default" library="default"/>
         <efx:design_file name="src/cmos_i2c/CMOS_Capture_RAW_Gray.v" version="default" library="default"/>
         <efx:design_file name="src/cmos_i2c/I2C_MT9M001_Gray_Config.v" version="default" library="default"/>
         <efx:design_file name="src/lcd_para.v" version="default" library="default"/>
@@ -51,10 +51,7 @@
         <efx:design_file name="src/isp/Reduce_Highlight/sort3.v" version="default" library="default"/>
         <efx:design_file name="src/isp/Gamma/isp_gamma.v" version="default" library="default"/>
         <efx:design_file name="src/isp/AE/alg_ae.v" version="default" library="default"/>
-        <efx:design_file name="src/isp/AE/i2c_realtime_integration_example.v" version="default" library="default"/>
-        <efx:design_file name="src/isp/AE/i2c_realtime_writer.v" version="default" library="default"/>
         <efx:design_file name="src/isp/AE/isp_stat_ae.v" version="default" library="default"/>
-        <efx:design_file name="src/isp/AE/i2c_timing_ctrl_16bit_sp.v" version="default" library="default"/>
         <efx:design_file name="src/isp/median_filter/module line_shift_ram_8bit.v" version="default" library="default"/>
         <efx:design_file name="src/isp/median_filter/module median_filter_3x3.v" version="default" library="default"/>
         <efx:design_file name="src/isp/median_filter/module vip_matrix_generate_3x3_8bit.v" version="default" library="default"/>
@@ -65,10 +62,10 @@
         <efx:design_file name="src/data_in_uart/uart_receiver.v" version="default" library="default"/>
         <efx:design_file name="src/data_in_uart/uart_scope.v" version="default" library="default"/>
         <efx:design_file name="src/data_in_uart/uart_transfer.v" version="default" library="default"/>
-        <efx:design_file name="src/isp/isp_ee.v" version="default" library="default"/>
+        <efx:design_file name="src/isp/sharpen/isp_ee.v" version="default" library="default"/>
         <efx:design_file name="src/isp/Gaussfilter/isp_bnr.v" version="default" library="default"/>
         <efx:design_file name="src/isp/isp_2dnr.v" version="default" library="default"/>
-        <efx:design_file name="src/isp/isp_dpc.v" version="default" library="default"/>
+        <efx:design_file name="src/isp/DPC/isp_dpc.v" version="default" library="default"/>
         <efx:top_vhdl_arch name=""/>
     </efx:design_info>
     <efx:constraint_info>
