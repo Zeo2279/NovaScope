@@ -78,6 +78,15 @@ python scripts/check_project.py
 - 现有测试不是完整的自动回归；尚未提供可验证的整机帧率、延迟、资源占用或时序报告。
 - 引脚约束与具体硬件绑定；原理图、接线照片及完整上板复现记录尚未随整理版补齐。
 
+## 团队协作（Collaboration）
+
+本项目是团队共同完成的 FPGA 内窥镜设计作品，在官方显示 Demo 基础上开展开发与集成。
+
+- 项目维护者：[Zeo2279](https://github.com/Zeo2279)
+- 项目协作者：Liu yuyang（[@YuyangLiuNJU](https://github.com/YuyangLiuNJU)）
+
+感谢团队成员的共同投入。欢迎通过 Issue 交流问题，或通过 Pull Request 提交改进；参与方式见 [贡献说明](CONTRIBUTING.md)。
+
 ## 许可证与贡献
 
 项目维护者拥有权利的原创部分采用 [MIT License](LICENSE)。**第三方源码、厂商 IP、模型和衍生部分不因根目录 MIT 而改变许可。** 原始版权和作者声明均保留，详见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
